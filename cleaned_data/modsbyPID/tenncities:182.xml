@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000067_000282</identifier>
+   <identifier type="pid">tenncities:182</identifier>
+   <identifier type="spc">record_spc_3938</identifier>
+   <titleInfo>
+      <title>Governor William Blount's Office</title>
+   </titleInfo>
+   <abstract>Both Governor Blount's home and office were built in 1792. Although the home was restored and opened as a museum in the early 1920s, the office was not repaired until 1955. It currently serves as part of the Blount Mansion museum.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n78030817">
+      <namePart>Thompson, James Edward, 1880-1976</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1928</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1928</dateCreated>
+      <publisher>Governor William Blount Mansion Association</publisher>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+      <dateIssued>1928</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+      <topic>Knoxville (Tenn.)--History</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images of East Tennessee</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier>MS.0951</identifier>
+      <location>
+         <url>
+https://n2t.net/ark:/87290/v8kd1w2w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

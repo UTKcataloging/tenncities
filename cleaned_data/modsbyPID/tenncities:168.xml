@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000067_000268</identifier>
+   <identifier type="pid">tenncities:168</identifier>
+   <identifier type="spc">record_spc_3924</identifier>
+   <titleInfo>
+      <title>Oakwood Mansion</title>
+   </titleInfo>
+   <abstract>Charles J. McClung built Oakwood Mansion for his son, Matthew McClung, in 1870. The house changed hands in 1873, when it became home to Matthew's sister Lucy and her husband, Jacob Lytton Thomas. The home was then located at the outskirts of town, allowing Thomas to farm and raise livestock. Railroad contractor Henry H. Thrasher purchased the house in about 1905 and remodeled it completely, adding porches, columns, and the brick exterior. He sold it in the late 1920s to a group of physicians, who renamed it the Howard-Henderson Hospital. It was briefly known as the Acuff Clinic before becoming the Kingston Pike Motel in the late 1950s. When that enterprise failed, the structure was remodeled and reopened as the Kingston Pike Nursing Home. It continued in this capacity until the early 1990s. It was home to a number of businesses, including a beauty parlor and a restaurant, before Sam Furrow purchased it in 1999. The structure currently serves as office space for a number of enterprises.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1905-1930</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1905</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1930</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh86003042">
+      <topic>Mansions</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85040261">
+      <topic>Dwellings--Tennessee</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+      <topic>Knoxville (Tenn.)--History</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <name>
+         <namePart>McClung Family</namePart>
+      </name>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images of East Tennessee</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier>MS.0951</identifier>
+      <location>
+         <url>
+https://n2t.net/ark:/87290/v8kd1w2w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_000067_000619</identifier>
+   <identifier type="pid">tenncities:519</identifier>
+   <identifier type="spc">record_spc_4275</identifier>
+   <titleInfo>
+      <title>Knoxville Sentinel Building during the World Series</title>
+   </titleInfo>
+   <abstract>In the 1920s, the Knoxville Sentinel maintained a board that allowed fans to keep up with the World Series game. It was manned by two boys: one (seen near the policeman's perch) relayed news to the crowd via megaphone, and the other (seen at the bottom of the board) updated the posted score. In this 1921 event, the Giants beat the Yankees 5-3.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1921</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1921</dateCreated>
+      <publisher>Donning Company Publishers</publisher>
+      <place>
+         <placeTerm>253 West Bute Street, Norfolk, VA 23510</placeTerm>
+      </place>
+      <dateIssued>1978</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85091577">
+      <topic>Newspaper buildings</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh89001299">
+      <topic>Baseball fans</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002773">
+      <topic>Crowds</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+      <topic>Knoxville (Tenn.)--History</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/no2001014780">
+      <name>
+         <namePart>World Series (Baseball)</namePart>
+      </name>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images of East Tennessee</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Photographs of Tennessee Cities Collection</title>
+      </titleInfo>
+      <identifier>MS.0951</identifier>
+      <location>
+         <url>
+https://n2t.net/ark:/87290/v8kd1w2w</url>
+      </location>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
