@@ -11,6 +11,13 @@
       <title>Burwell Building</title>
    </titleInfo>
    <abstract>The Knoxville Banking and Trust Building was completed in 1907 on the site of the original Blount College. It was Knoxville's tallest building until 1912, when it was surpassed by the Holston. C.B. Atkin later purchased the structure, which he enlarged and renamed the Burwell Building in honor of his wife, Mary Burwell. The structure became famous in 1928, when the Tennessee Theater was added as part of an addition standing at 604-606 Gay Street. It was added to the National Register of Historic Places in 1982.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1907</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1907</dateCreated>

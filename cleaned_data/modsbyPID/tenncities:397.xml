@@ -11,6 +11,13 @@
       <title>Church Street Methodist Episcopal Church</title>
    </titleInfo>
    <abstract>When the Church Street Methodist Episcopal Church South building (constructed in 1875) was destroyed by fire in 1928, the structure shown replaced it. Although the new building stood at the corner of Henley and Main Streets, the congregation chose to retain "Church Street" in its name. The church's name was changed to Church Street United Methodist Church when the nationwide United Methodist Church was formed in 1968, and this structure continues to operate as a Methodist Church today.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1928-1968</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1928</dateCreated>

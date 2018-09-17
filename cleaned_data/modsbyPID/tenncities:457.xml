@@ -11,6 +11,13 @@
       <title>Highlands Grill</title>
    </titleInfo>
    <abstract>View of the Highlands Grill on Kingston Pike. According to the post card, this establishment is "recognized as Knoxville's finest eating place" and "specializes in fried chicken, country ham, Western steaks, fresh sea food and the best hot rolls in the South."</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1948-1952</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1948</dateCreated>

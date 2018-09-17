@@ -11,6 +11,13 @@
       <title>View of the Cherokee Country Club and the Horseshoe Bend</title>
    </titleInfo>
    <abstract>The Cherokee Country Club's original clubhouse (shown here) was constructed in 1907. This structure was demolished in 1928 to make way for a more elaborate clubhouse designed by Knoxville architects Baumann and Baumann. The Tennessee River's Horseshoe Bend (today a National Military Park commemorating the Battle of Horseshoe Bend fought there on March 27, 1814) is shown as it appears from the clubhouse.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1924-1930</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>

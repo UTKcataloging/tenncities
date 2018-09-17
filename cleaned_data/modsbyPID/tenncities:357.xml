@@ -11,6 +11,13 @@
       <title>Tennessee State Capitol Building</title>
    </titleInfo>
    <abstract>In the early 20th century, popular theory held that this building, located on Cumberland Avenue, was the first state capitol of Tennessee. There is, however, no evidence to support this claim - indeed, several astute commentators have pointed out that this structure was not built until after the capital had moved to Middle Tennessee. In any case, the building was razed in January of 1927.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1903</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1903</dateCreated>

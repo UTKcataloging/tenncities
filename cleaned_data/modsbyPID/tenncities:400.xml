@@ -11,6 +11,13 @@
       <title>Grand Army of the Republic Monument</title>
    </titleInfo>
    <abstract>The first Grand Army of the Republic monument was erected in the northeast corner of Knoxville's National Cemetery in 1901. This memorial featured a column of Tennessee marble topped by a statue of a Union soldier and a bronze eagle with his wings spread. This monument was struck by lightning and destroyed on August 22, 1904. Its replacement, shown here, was completed on October 15, 1906. It features a miniature medieval fortress and a central column topped with a statue of a Union soldier at parade rest. A contemporary local legend identifies him as General John T. Wilder, who was the only ranking general on the memorial committee.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1907-1920</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1907</dateCreated>

@@ -11,6 +11,13 @@
       <title>Public Hall</title>
    </titleInfo>
    <abstract>Knoxville's original Public Hall, better known as the Market House, was built in 1816. During the Civil War, the Union used the Market House to store ammunition and business was conducted outside. A new Market House (shown) was built in 1897 and merchants offered a wide variety of items, including baked goods, fresh meats, and homegrown fruits and vegetables from permanent stalls and wagons parked outside. After being partially destroyed by fire, this structure was demolished to make way for the Market Street Mall in 1960.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1897-1960</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1897</dateCreated>

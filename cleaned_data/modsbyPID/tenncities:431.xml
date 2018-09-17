@@ -11,6 +11,13 @@
       <title>Medical Arts Building</title>
    </titleInfo>
    <abstract>The Medical Arts Building, located on Knoxville's Main Street, was completed in 1930. It was constructed under the direct supervision of the medical profession so that it could be tailored to meet the individual needs of each tenant. For many years, it was considered one of the finest Medical Arts Buildings in the United States. The structure has been listed on the National Register of Historic Places since 1984.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1930-1968</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1930</dateCreated>

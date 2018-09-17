@@ -11,6 +11,13 @@
       <title>Gay Street</title>
    </titleInfo>
    <abstract>View down Gay Street, long one of Knoxville's major thoroughfares. Visible are the old Hotel Imperial and one of Knoxville's early electric streetcars.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1907</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1907</dateCreated>

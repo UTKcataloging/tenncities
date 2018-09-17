@@ -11,6 +11,13 @@
       <title>Hotel Andrew Johnson</title>
    </titleInfo>
    <abstract>The Andrew Johnson Hotel opened on Gay Street in 1929 and prospered throughout the Great Depression. Its numerous guests included Jean Paul Sarte, Duke Ellington, Amelia Erhart, Liberace, Tony Perkins, and Sergei Rachmaninoff. Knox County purchased the building in 1990, and is considering selling the property for a mix of residential and commercial uses as of June 2007. This particular postcard was mailed on October 13, 1934 from Chattanooga.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1934</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1934</dateCreated>

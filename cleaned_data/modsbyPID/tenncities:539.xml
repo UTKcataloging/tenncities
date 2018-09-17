@@ -11,6 +11,13 @@
       <title>Barracks-type houses along First Creek</title>
    </titleInfo>
    <abstract>View of barracks-type houses along First Creek. According to Hyde, these homes are located in a D-Class neighborhood one "occupied by negroes, irrespective of property value." Structures in these sections tend to be "of the poorest type, being constructed of unfinished lumber loosely thrown together and stripped" although some were previously part of slightly more prosperous C-Class neighborhoods.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1939</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>

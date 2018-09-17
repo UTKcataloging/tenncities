@@ -11,6 +11,13 @@
       <title>Lake at Fountain City</title>
    </titleInfo>
    <abstract>The Knoxville suburb of Fountain City began as a center of religious camp meetings in the 1830s. After the Fountain Head Improvement Company built a three-story hotel in 1886 and the Fountain Head Railroad Company began carrying tourists to the area in 1890, however, it lost its original farming character and became a resort area. Note that this postcard is an octochrome.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1910</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1910</dateCreated>

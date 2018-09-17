@@ -11,6 +11,13 @@
       <title>Island Home Farm</title>
    </titleInfo>
    <abstract>Perez Dickinson was born in Amherst, Massachusetts in 1813. He moved to Knoxville in about 1830, where he quickly became an extremely popular and successful merchant. He purchased Williams Island (located in the Tennessee River) in 1869. Here, he constructed a manor house and established Island Home Farm. He raised crops of fruits and vegetables until his death in 1901.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>July 10, 1937</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1937-07-10</dateCreated>

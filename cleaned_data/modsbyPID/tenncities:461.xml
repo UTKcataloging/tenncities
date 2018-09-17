@@ -11,6 +11,13 @@
       <title>English Lutheran Church</title>
    </titleInfo>
    <abstract>Knoxville's English Lutheran Church was founded in 1888 and formally incorporated in 1890. It was designed to serve those Lutherans who preferred to worship using English rather than German. The church's congregation grew quickly, and this building was constructed on the corner of Broadway and Emory Streets in 1913. Mrs. Martha Henson donated most of the money for the structure in memory of her late husband, James A. Henson. The building is now known as St. John's Lutheran Church and has been listed on the National Register of Historic Places since April of 1985.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1913-1985</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1913</dateCreated>

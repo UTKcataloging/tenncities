@@ -11,6 +11,13 @@
       <title>Masonic Temple</title>
    </titleInfo>
    <abstract>Knoxville's Masonic Temple was originally Charles McClung McGhee's private home. The structure was designed by architect Joseph F. Baumann in 1872 and altered to serve as the Masonic Temple after McGhee's death in 1907. The interior of the home was restored in the early 1990s.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1924-1930</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>

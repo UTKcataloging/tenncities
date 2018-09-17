@@ -11,6 +11,13 @@
       <title>Houses in Knoxville's Mill Street section</title>
    </titleInfo>
    <abstract>View of houses in Knoxville's Mill Street section, located a mere two blocks away from Gay Street. According to Welles, this section is home to "poor whites of unassorted varieties of occupations." Although conditions had improved in previous years, the district was still characterized by poverty, filth, and squalor in 1919.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1919</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1919</dateCreated>

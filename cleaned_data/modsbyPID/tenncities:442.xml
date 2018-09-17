@@ -11,6 +11,13 @@
       <title>Southern Railway Station</title>
    </titleInfo>
    <abstract>This Southern Railway Station was built in Knoxville in 1904. It prospered until passenger traffic began to decline in the 1960s due to competition from airplanes and automobiles. The last passenger train to pass through the station was the "Birmingham Special," which departed on August 12, 1970. The station was renovated in the early 1990s for use by Knoxville architectural firm Bullock, Smith, and Partners, Inc.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1904-1920</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1904</dateCreated>

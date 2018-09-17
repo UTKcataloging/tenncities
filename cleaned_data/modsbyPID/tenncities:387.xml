@@ -11,6 +11,13 @@
       <title>Lincoln Memorial Hospital</title>
    </titleInfo>
    <abstract>Constructed in 1905, Lincoln Memorial Hospital was closely associated with Lincoln Memorial University's medical program. LMU bought the facility outright in May of 1909, and its medical program merged with four others to form the University of Tennessee College of Medicine in Memphis in 1911.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1922</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1922</dateCreated>

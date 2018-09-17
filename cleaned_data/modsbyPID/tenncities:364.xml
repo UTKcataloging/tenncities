@@ -11,6 +11,13 @@
       <title>Knoxville General Hospital</title>
    </titleInfo>
    <abstract>Knoxville General Hospital opened on Cleveland Place in 1902. It served as Knoxville's primary hospital until August of 1956, when it was replaced by the University of Tennessee Memorial Hospital (now the University of Tennessee Medical Center).</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1917</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1917</dateCreated>

@@ -11,6 +11,13 @@
       <title>University of Tennessee's "Hill"</title>
    </titleInfo>
    <abstract>This image shows the University of Tennessee's "Hill" as seen from Circle Park. Visible buildings include Old College, North College, Barbara Blount Hall, the YMCA, and some of the residences once located near the campus.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1901-1919</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1901</dateCreated>

@@ -11,6 +11,13 @@
       <title>Drawing room in the Blount Mansion</title>
    </titleInfo>
    <abstract>William Blount (who signed the US Constitution and served as the Governor of the Territory of the United States South of the Ohio River) and his wife Mary commissioned this home in 1792. In addition to its size, the home boasted a number of features not commonly seen on the frontier, including hardwood floors and glass windows. A group of women led by Mary Boyce Temple led a campaign to preserve Blount Mansion in the early 1920s, and the house became a museum in 1925. The portraits on the far wall show William Blount (left) and his half-brother Willie Blount.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1925-1935</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1925</dateCreated>

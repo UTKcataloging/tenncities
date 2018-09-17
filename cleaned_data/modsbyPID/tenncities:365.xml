@@ -11,6 +11,13 @@
       <title>Coal scene near Knoxville</title>
    </titleInfo>
    <abstract>Coal was one of East Tennessee's major industries during the early 20th century. The field began to decline during the 1930s and today the industry is no longer nearly as prominent as it once was.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1923</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1923</dateCreated>

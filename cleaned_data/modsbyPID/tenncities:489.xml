@@ -11,6 +11,13 @@
       <title>Louisville &amp; Nashville Railroad Depot</title>
    </titleInfo>
    <abstract>Until the Louisville &amp; Nashville Railroad gained entrance to Knoxville in 1905, the Southern Railway held a monopoly on rail traffic through the city. This depot was completed in 1906 and featured such amenities as a Ladies' Waiting Room with a private entrance, a fireplace, rocking chairs, and desks complete with L&amp;N stationary. The building was renovated for the 1982 World's Fair and today houses two restaurants opened shortly after the renovation was complete.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1924-1930</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>

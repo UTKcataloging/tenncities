@@ -11,6 +11,13 @@
       <title>Cherokee Country Club</title>
    </titleInfo>
    <abstract>View of the Cherokee Country Club's original clubhouse, constructed in 1907. The structure was demolished in 1928 to make way for a more elaborate clubhouse designed by Knoxville architects Baumann and Baumann.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1911</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1911</dateCreated>

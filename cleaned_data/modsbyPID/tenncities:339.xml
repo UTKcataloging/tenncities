@@ -11,6 +11,13 @@
       <title>Circle Park Neighborhood</title>
    </titleInfo>
    <abstract>The Circle Park neighborhood was home to many of Knoxville's richest and most prominent citizens during the early part of the 20th century. The area began to decline in the 1940s, and the University of Tennessee bought most of the neighborhood in the 1950s. Between 1960 and 1968, the University razed the original structures to make way for such buildings as the Andy Holt Tower and the McClung Museum, many of which are still in use.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1910-1913</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1910</dateCreated>

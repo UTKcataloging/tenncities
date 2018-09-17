@@ -11,6 +11,13 @@
       <title>Chilhowee Park (near Machinery and Liberal Arts Building)</title>
    </titleInfo>
    <abstract>The Machinery and Liberal Arts Building was constructed in Chilhowee Park as part of the 1913 National Conservation Exposition. Although this event dealt only with local issues, it was an ambitious attempt to educate citizens and businessmen about the importance of conserving natural resources. The Exposition was sponsored by President Theodore Roosevelt and continued previous efforts in the field.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1919</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1919</dateCreated>

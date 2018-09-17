@@ -11,6 +11,13 @@
       <title>John Sevier's "Marble Springs Plantation"</title>
    </titleInfo>
    <abstract>John Sevier was born in 1745 in Virginia. He fought in the Revolutionary War (most notably at the Battle of Kings Mountain) and was later involved in the short-lived State of Franklin and the campaign for Tennessee statehood. When Sevier became Tennessee's first governor in 1796, he settled in South Knox County. Here, he constructed "Marble Springs Plantation," which consisted of a main building (shown) and several smaller outbuildings. Sevier died in Alabama in 1815 and was removed to the Knox County Courthouse lawn in 1889. His wives, Sarah Hawkins and Catherine "Bonny Kate" Sherrill, are buried nearby.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1921</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1921</dateCreated>

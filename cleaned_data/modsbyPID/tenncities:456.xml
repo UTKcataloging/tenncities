@@ -11,6 +11,13 @@
       <title>Fort James White</title>
    </titleInfo>
    <abstract>General James White built this house, the first in Knoxville, in 1786. It was originally located at one corner of a rectangular lot with smaller houses in the other three corners, a common frontier design intended to protect against Indians. After the White family established a farm away from this location, the structure was repurposed as the kitchen wing of the Kennedy residence on State Street. In 1906, Isaiah Ford purchased the building and moved it to Woodlawn Pike, where he used it as a private residence. It changed hands again in 1970, when the City Association of Women's Clubs purchased the home and moved it back to central Knoxville. It currently stands near the Knoxville Coliseum and is one of the most visited historical sites in the city.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1970</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1970</dateCreated>

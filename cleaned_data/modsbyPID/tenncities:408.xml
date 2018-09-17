@@ -11,6 +11,13 @@
       <title>Park City High School</title>
    </titleInfo>
    <abstract>Park City High School was built in 1907. For a brief time, it was the largest high school in Knoxville. It later became Park Lowry Grammar School and was closed in 1982. The building was sold to private contractors in the mid 1980s, but was completely razed after being badly damaged by fire in September of 1987.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1910</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1910</dateCreated>

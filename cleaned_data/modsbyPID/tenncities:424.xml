@@ -11,6 +11,13 @@
       <title>East Tennessee Hospital for the Insane</title>
    </titleInfo>
    <abstract>The East Tennessee Hospital for the Insane opened in 1886 with 99 patients transferred from the older Tennessee Lunatic Asylum in Nashville. In 1920, the facility's name was changed to Eastern State Hospital as part of a program to rename all of the asylums in the state. The facility was updated in 1971 after a number of deficiencies were exposed. The hospital's name was changed again, this time incorporating the phrase "Mental Health Institute," in 1977. It continues to operate as a mental health care center today.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1898-1920</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1898</dateCreated>

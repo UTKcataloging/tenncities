@@ -11,6 +11,13 @@
       <title>View of Knoxville, Tennessee</title>
    </titleInfo>
    <abstract>Reproduction of the first panel of T.M. Schleier's 1865 panorama of Knoxville. The numbers refer to captions added by John S. Van Gilder in 1936. A complete description of the full panorama is housed in UTK-MS-1803.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1865</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1865</dateCreated>

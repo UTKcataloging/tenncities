@@ -11,6 +11,13 @@
       <title>Holston National Bank Building</title>
    </titleInfo>
    <abstract>Knoxville Banking and Trust constructed this building, best known as the Holston National Bank Building, in 1912. At 12 stories, it was Knoxville's tallest edifice until 1928, when it was surpassed by the Andrew Johnson Building. The Holston National Bank became the Holston-Union Bank in 1928 and the Hamilton National Bank (now known as the First Tennessee Bank) in 1931. Although the Holston no longer serves the financial industry, it has been repurposed as a luxury residence building and continues to be a prominent Knoxville landmark.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1924-1930</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>

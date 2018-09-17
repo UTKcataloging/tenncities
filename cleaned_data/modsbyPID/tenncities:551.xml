@@ -11,6 +11,13 @@
       <title>Typical houses in the Dale Avenue District</title>
    </titleInfo>
    <abstract>Typical houses on Knoxville's Dale Avenue. Welles places this area in the Northwest District, which she describes as "essentially a mill section, [as] many of its inhabitants depend ... for their living on the large mills." She finds the homes to be "poorly constructed in most instances" but does not find the living conditions as deplorable as they are in some of the other sections.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1919</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1919</dateCreated>

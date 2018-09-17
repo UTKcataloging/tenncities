@@ -11,6 +11,13 @@
       <title>Cabin near Knoxville</title>
    </titleInfo>
    <abstract>Although somewhat idealized, this log cabin is of a design typical of the Great Smoky Mountains before the advent of the Great Smoky Mountains National Park. This particular view shows the front of the cabin, including steps, a makeshift porch, and a firepit.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1911</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1911</dateCreated>

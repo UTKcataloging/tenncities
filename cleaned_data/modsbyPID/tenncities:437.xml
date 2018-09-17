@@ -11,6 +11,13 @@
       <title>Entrance to Melrose Place</title>
    </titleInfo>
    <abstract>Melrose Park was originally an upscale Knoxville residential neighborhood. The University of Tennessee acquired the area in the 1960s and began destroying its Victorian-era homes to allow for University expansion in the late 1970s. Although several homes were adapted to house University programs, few traces of the area's original character remain today.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1913</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1913</dateCreated>

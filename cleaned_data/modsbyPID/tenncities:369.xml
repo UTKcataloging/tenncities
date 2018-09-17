@@ -11,6 +11,13 @@
       <title>Clinch Street</title>
    </titleInfo>
    <abstract>View of Clinch Street (looking east from Prince Street). Visible are the old Customs Building, the Fouche Building, and the Holston Building. The building behind the Holston Building would later be razed to make way for the Farragut Hotel.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1914</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1914</dateCreated>

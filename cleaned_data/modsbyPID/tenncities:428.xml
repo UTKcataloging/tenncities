@@ -11,6 +11,13 @@
       <title>Berry Funeral Home</title>
    </titleInfo>
    <abstract>Ralph Lawson Berry founded the Ralph L. Berry Funeral Home on September 20, 1928. His son, Fred O. Berry Sr., joined him in the business in 1934, but problems among the stockholders forced both to resign in 1936. In 1937, Ralph Berry, Fred Berry, and Edward Weigel founded the Berry Funeral Home on South Gay Street. In 1948, the business expanded when the Berry Funeral Home purchased and remodeled a structure (shown here) on Chapman Highway. A number of other major expansions were made in later years (including a merger with SCI Funeral Services of Tennessee) and Berry Funeral Home continues to operate as one of the most prestigious mortuary services in Tennessee.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1958</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1958</dateCreated>

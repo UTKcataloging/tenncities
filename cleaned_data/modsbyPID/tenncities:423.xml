@@ -11,6 +11,13 @@
       <title>Appalachian Exposition Main Building</title>
    </titleInfo>
    <abstract>The 1910 Appalachian Exposition was held from September 12 to October 12 in Knoxville's Chilhowee Park. The first of its kind in Appalachia, the Fair was intended to demonstrate Southern progress in industry and commerce and to advocate the preservation of the area's natural resources. The fair did not, however, achieve its broader goal: to turn Knoxville into a model New South city.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1910</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1910</dateCreated>

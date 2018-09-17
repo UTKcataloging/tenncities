@@ -11,6 +11,13 @@
       <title>One of the better sections of the Brookside District</title>
    </titleInfo>
    <abstract>Some of the nicer homes in the Brookside District. Although Welles did not find conditions here to be "flagrantly appalling," she does point out that the creek here has been polluted by a tanning factory and produces "quite unwholesome" conditions during the summer.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1919</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1919</dateCreated>

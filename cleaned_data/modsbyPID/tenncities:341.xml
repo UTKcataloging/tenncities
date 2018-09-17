@@ -11,6 +11,13 @@
       <title>Elks Home</title>
    </titleInfo>
    <abstract>The Benevolent and Protective Order of Elks Home was originally located at 421 W. Main Avenue. The Elks moved to the Home pictured here in 1909, when Colonel J.Y. Johnston took over the Main Avenue property to use as his private residence. This postcard was mailed in 1909.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1909</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1909</dateCreated>

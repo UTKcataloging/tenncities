@@ -11,6 +11,13 @@
       <title>Henley Street Bridge</title>
    </titleInfo>
    <abstract>The Henley Street Bridge was built at a cost of $1 million between 1930 and 1932. After the Fort Loudon Dam was completed and its reservoir filled in 1943, the water level in the Tennessee River rose by several feet and so changed the appearance of the bridge. This image shows several of the shoals characteristic of the lower water level.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1932-1943</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1932</dateCreated>

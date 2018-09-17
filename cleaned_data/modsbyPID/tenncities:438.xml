@@ -11,6 +11,13 @@
       <title>First Methodist Episcopal Church</title>
    </titleInfo>
    <abstract>The first Methodist Episcopal Church was organized shortly after the Civil War by the Reverend J.B. Ford. Their first permanent church, dedicated in 1869, stood on the corner of Clinch and Market Streets. The congregation grew quickly and moved to this church, located on the corner of Clinch Avenue and Locust Street, in 1894. The building was designed in the Romanesque style by architect H.H. Richardson. The Church moved again, this time to the Hugh Sanford property, in 1966 and became the First United Methodist Church when the Methodist Church and the United Evangelical Brethren merged in 1968.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1909</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1909</dateCreated>

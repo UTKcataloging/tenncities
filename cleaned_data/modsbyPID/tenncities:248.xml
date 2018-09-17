@@ -11,6 +11,13 @@
       <title>Bluffs over the Tennessee River</title>
    </titleInfo>
    <abstract>View of a group of people on a bluff, probably overlooking the Tennessee River. The photograph was taken by Knoxville photographer Joseph E. Story, who operated in Knoxville between 1894 and 1895.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1894-1895</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1894</dateCreated>

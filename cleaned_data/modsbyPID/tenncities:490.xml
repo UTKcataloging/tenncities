@@ -11,6 +11,13 @@
       <title>William Gannaway "Parson" Brownlow Residence</title>
    </titleInfo>
    <abstract>Controversial Methodist preacher and newspaperman William Gannaway "Parson" Brownlow was born in 1805 in Wythe County, Virginia. His zest for confrontation and staunch Union loyalties convinced the Confederacy to expel him from Tennessee during the Civil War, but he returned to Tennessee in March of 1865 when he was elected governor. During his term, Brownlow convinced the legislature to ratify the 14th Amendment (thus sparing Tennessee from Reconstruction) and made great progress toward restoring the State's economic health. He served one term in the US Senate before dying in 1877.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1903</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1903</dateCreated>

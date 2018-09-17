@@ -11,6 +11,13 @@
       <title>St. James Hotel</title>
    </titleInfo>
    <abstract>Originally known as the Van Deventer building, the St. James Hotel was built shortly after the "Million Dollar Fire" of 1897. During the 1920s, the hotel developed a reputation as a musical center: WNOX (earlier WNAV) was located at the St. James by 1923, and the Brunswick/Vocalion label set up temporary quarters in the building in 1929. A number of artists, many of whom went on to achieve national and international recognition, made recordings here during the "St. James Sessions" of 1929-1930. The hotel was demolished in 1973.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1926</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1926</dateCreated>

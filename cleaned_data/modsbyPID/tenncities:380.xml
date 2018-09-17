@@ -11,6 +11,13 @@
       <title>Stratford Hotel</title>
    </titleInfo>
    <abstract>This picture was taken shortly after the completion of the Stratford Hotel at 409 Wall Avenue in 1905. Although not as well known as the Andrew Johnson Hotel or the St. James Hotel, the Stratford Hotel operated until 1939. In 1940, it was replaced with the Stratford Hotel Barber Shop.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1907</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1907</dateCreated>

@@ -11,6 +11,13 @@
       <title>St. John's Episcopal Church</title>
    </titleInfo>
    <abstract>St. John's Episcopal Church was organized in Knoxville in 1826. Its original house of worship (on the corner of Walnut and Cumberland streets) was razed in 1891 in order to make way for a larger structure. This building, designed by J.W. Yost, was completed in 1892. When the Diocese of East Tennessee was created in 1986, the Church became St. John's Cathedral. Currently, the Cathedral is one of the only surviving churches in downtown Knoxville.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>October 8, 1906</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1906-10-08</dateCreated>

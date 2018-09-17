@@ -11,6 +11,13 @@
       <title>Auditorium of the First Baptist Church</title>
    </titleInfo>
    <abstract>Brothers James and John Moses organized the congregation that would become Knoxville's First Baptist Church in 1843. The church's first permanent house of worship stood on Gay Street and was completed in 1850. The congregation split in 1869, and the dissidents formed Knoxville's Second Baptist Church. The First Baptist Church moved to their second home (made possible in large part by merchant and philanthropist W.W. Woodruff) in 1888. Their current house of worship, located at the corner of Walnut and Main Streets, was completed in 1924 and is still in use today. It was placed on the National Register of Historic Places in 1997.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1924-1930</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>

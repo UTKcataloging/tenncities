@@ -11,6 +11,13 @@
       <title>Dwellings on Jackson Avenue</title>
    </titleInfo>
    <abstract>Typical homes on Jackson Avenue. Welles places these structures in the "negro section" of the East Central District, which she describes as "the most desirable for the colored aristocracy of the city" as residence here "shortens immeasurably the climb up the ladder to social prominence."</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1919</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1919</dateCreated>

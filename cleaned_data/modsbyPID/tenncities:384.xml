@@ -11,6 +11,13 @@
       <title>Chilhowee Park</title>
    </titleInfo>
    <abstract>Boaters on Chilhowee Park's lake prior to the 1910 Appalachian Exposition. Originally known as Lake Ottossee, Chilhowee Park began to develop as a recreational area in 1890 when William G. McAdoo opened a streetcar line making the lake easily accessible from Knoxville. The area was renamed Chilhowee Park in 1900 and was the site of several expositions between 1910 and 1913. Although it has lost some of its former grandeur, the Park is still a popular recreation area today.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1900-1912</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1900</dateCreated>

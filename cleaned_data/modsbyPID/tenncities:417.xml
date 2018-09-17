@@ -11,6 +11,13 @@
       <title>Baker-Himel School</title>
    </titleInfo>
    <abstract>Lewis M.G. Baker and Charles M. Himel established this private school, located on the corner of Highland and 12th Streets, in 1889. It was dedicated to preparing boys for college, and for many years the University of Tennessee and several other schools admitted its graduates without further examination. The school's building was destroyed by fire in 1893 but was replaced by a larger structure later that year. It finally closed in 1913.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>December 15, 1913</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1913-12-15</dateCreated>

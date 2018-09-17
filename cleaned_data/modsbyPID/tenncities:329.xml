@@ -11,6 +11,13 @@
       <title>Aerial View of Knoxville, Tennessee</title>
    </titleInfo>
    <abstract>Aerial view of Knoxville published by Raphael Tuck &amp; Sons, "art publishers to their majesties the King and Queen." Visible are the third Gay Street Bridge, the Tennessee River, the Courthouse, and the First Baptist Church's spire.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1907</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1907</dateCreated>

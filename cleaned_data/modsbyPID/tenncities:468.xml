@@ -11,6 +11,13 @@
       <title>Gay Street</title>
    </titleInfo>
    <abstract>View on Gay Street, long one of Knoxville's major thoroughfares.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1902-1906</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1902</dateCreated>

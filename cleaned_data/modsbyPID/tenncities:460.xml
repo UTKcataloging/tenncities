@@ -11,6 +11,13 @@
       <title>Marble quarry</title>
    </titleInfo>
    <abstract>Although marble is no longer mined in East Tennessee, it was once an important industry in the Knoxville area. This image shows a typical marble quarry in the early 20th century.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1900-1930</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1900</dateCreated>

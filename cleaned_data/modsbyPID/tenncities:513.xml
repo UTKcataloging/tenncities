@@ -11,6 +11,13 @@
       <title>Map of Harder &amp; Co.'s addition to Knoxville</title>
    </titleInfo>
    <abstract>Map of Harder &amp; Co.'s addition to Knoxville, apparently drawn by John H. Shields in 1856. This addition stretches from Ohio Street in the North to the railroad tracks in the South and Spring Street in the East to Elm Street in the West. It borders on Temple's Addition and King's Addition.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1856</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1856</dateCreated>

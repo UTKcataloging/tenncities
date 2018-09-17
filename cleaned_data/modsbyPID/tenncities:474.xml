@@ -11,6 +11,13 @@
       <title>University of Tennessee's "Hill"</title>
    </titleInfo>
    <abstract>View of the University of Tennessee's "Hill," including Ayres Hall, the Science Hall, South College, and Shields-Watkins Field shortly after construction.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1924-1930</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1924</dateCreated>

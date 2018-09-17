@@ -11,6 +11,13 @@
       <title>Central Methodist Episcopal Church, South</title>
    </titleInfo>
    <abstract>Central Methodist Episcopal Church South, designed by Chattanooga architect R.H. Hunt, was dedicated in March of 1927. It represented a combination of two older Knoxville Methodist churches: Broad Street and Centenary. The church was renamed Central United Methodist Church when the United Methodist Church was formed in 1968. Although membership has dwindled, the church continues to operate today.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1936-1946</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1936</dateCreated>

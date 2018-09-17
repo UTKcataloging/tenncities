@@ -11,6 +11,13 @@
       <title>Talahi Park</title>
    </titleInfo>
    <abstract>In Robert L. Nash's original vision, Talahi was to be not just a park but an entire upper-class subdivision in west Knoxville. He acquired land adjoining Knoxville's new Sequoyah Hills neighborhood in 1926 and began marketing it to potential residents in 1929. Only one lot was sold before the Great Depression, which put an end to Nash's dream. After his 1933 suicide, Sequoyah Hills effectively annexed Talahi, which developed with the rest of the area into one of Knoxville's toniest neighborhoods.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1955</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1955</dateCreated>

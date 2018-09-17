@@ -11,6 +11,13 @@
       <title>Knoxville Traction Company Reservoir and Power House</title>
    </titleInfo>
    <abstract>The Knoxville Traction Company was chartered on March 31, 1898 and eventually operated some 60 electric streetcars on 30 miles of track. It became part of the Knoxville Railway and Light Company when all transit and electric operations were consolidated in 1908. The eventual successor of this organization, the Knoxville Utilities Board (KUB), continues to serve the city today.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1907</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1907</dateCreated>

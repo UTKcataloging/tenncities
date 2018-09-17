@@ -11,6 +11,13 @@
       <title>Gay Street Bridge</title>
    </titleInfo>
    <abstract>The Union Army built Knoxville's first bridge across the Tennessee River during the Civil War. This structure was washed away in 1867 and subsequently replaced by a toll bridge. A tornado destroyed this span in 1875, and a fourth bridge was constructed in 1880. This structure lasted until 1898, when it was replaced by a modern and much-admired steel bridge.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>September 3, 1911</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1911-09-03</dateCreated>

@@ -11,6 +11,13 @@
       <title>Brabson's Ferry</title>
    </titleInfo>
    <abstract>Brabson Island, site of Brabson's Ferry Plantation, sits in the French Broad River in Sevier County, Tennessee. Since this postcard was mailed in 1913, the notation "Brabson's Ferry near Knoxville, Tenn." most likely refers to the ferry that crosses the French Broad several miles upstream of Brabson Island rather than to the Plantation or to the island proper. Brabson's Ferry Plantation was added to the National Register of Historic Places on June 25, 1975.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1913</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1913</dateCreated>

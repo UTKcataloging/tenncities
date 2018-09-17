@@ -11,6 +11,13 @@
       <title>View down Hill Avenue</title>
    </titleInfo>
    <abstract>View down Knoxville's Hill Avenue. Visible are an unidentified cross street and private residence.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1907</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1907</dateCreated>

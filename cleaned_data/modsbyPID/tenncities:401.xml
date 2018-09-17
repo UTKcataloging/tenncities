@@ -11,6 +11,13 @@
       <title>Knoxville &amp; Augusta, Gay Street, and Knoxville, Cumberland Gap &amp; Louisville Bridges</title>
    </titleInfo>
    <abstract>View of the Knoxville &amp; Augusta (later Southern) Railroad bridge, the fourth Gay Street Bridge, and the Knoxville, Cumberland Gap &amp; Louisville Railroad bridge. This picture was taken from near the foot of the University of Tennessee's "Hill" and shows the sparse development of south Knoxville during the early 20th century.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>July 3, 1912</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1912-07-03</dateCreated>

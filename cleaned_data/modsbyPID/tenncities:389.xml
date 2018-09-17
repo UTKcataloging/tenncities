@@ -11,6 +11,13 @@
       <title>Gay Street (500 Block)</title>
    </titleInfo>
    <abstract>View on Gay Street, long one of Knoxville's major thoroughfares. Visible businesses include a billiard hall, Hope Brothers Jewelers, C.W. Crouch's floral shop, and W.L. Thompson's tailor shop.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1915-1916</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1915</dateCreated>

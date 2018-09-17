@@ -11,6 +11,13 @@
       <title>Knoxville City Hall</title>
    </titleInfo>
    <abstract>Knoxville's old City Hall was constructed in 1844 and originally housed the Tennessee School for the Deaf. It served as a makeshift hospital for both Union and Confederate troops during the Civil War but returned to its original purpose when the war ended. It became Knoxville's City Hall in 1924, and continued in this function until 1980. The structure is now listed on the National Register of Historic Places.</abstract>
+   <name>
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated>1927-1935</dateCreated>
       <dateCreated encoding="edtf" keyDate="yes" point="start">1927</dateCreated>
