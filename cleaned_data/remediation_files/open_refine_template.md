@@ -1,4 +1,4 @@
-# Open Refine Template for Photographs of Tennessee Cities Collection
+# Open Refine Template for Photographs of Tennessee Cities Collection (now "Images of East Tennessee")
 
 
 ## Template
@@ -23,7 +23,7 @@
 <dateCreated encoding="edtf" keyDate="yes" point="start">{{cells['edtf'].value}}</dateCreated>
 {{if(isBlank(cells['edtf_end'].value), '', '<dateCreated encoding="edtf" keyDate="yes" point="end">' + cells['edtf_end'].value + '</dateCreated>')}}
 {{if(isBlank(cells['publisher'].value), '', '<publisher>' + cells['publisher'].value + '</publisher>')}}
-{{if(isBlank(cells['placeTerm'].value), '', '<place><placeTerm' + if(isBlank(cells['placeTerm_URI'].value), '', 'authority="naf" valueURI="' + cells['placeTerm_URI'].value + '"') + '>' + cells['placeTerm'].value + '</placeTerm></place>')}}
+{{if(isBlank(cells['placeTerm'].value), '', '<place><placeTerm' + if(isBlank(cells['placeTerm_URI'].value), '', ' valueURI="' + cells['placeTerm_URI'].value + '"') + '>' + cells['placeTerm'].value + '</placeTerm></place>')}}
 {{if(isBlank(cells['dateIssued'].value), '', '<dateIssued>' + cells['dateIssued'].value + '</dateIssued>')}}
 </originInfo>
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><internetMediaType>image/jp2</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
