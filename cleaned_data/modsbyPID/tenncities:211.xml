@@ -40,6 +40,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85033348">
       <topic>Cotton textile industry</topic>
    </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101228">
+      <topic>Photography of interiors</topic>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n81102870">
       <geographic>Knox County (Tenn.)</geographic>

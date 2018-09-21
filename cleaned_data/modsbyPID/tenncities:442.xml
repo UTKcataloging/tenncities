@@ -32,6 +32,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh87002049">
       <topic>Railroads--Tennessee</topic>
    </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+      <topic>Architectural photography</topic>
+   </subject>
    <subject>
       <name>
          <namePart>Chas. C. Cullen &amp; Co.</namePart>

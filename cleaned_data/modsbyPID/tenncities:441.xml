@@ -37,6 +37,10 @@
       <topic>Cityscapes</topic>
    </subject>
    <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+      <topic>Architectural photography</topic>
+   </subject>
+   <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
       <topic>Knoxville (Tenn.)--History</topic>
    </subject>

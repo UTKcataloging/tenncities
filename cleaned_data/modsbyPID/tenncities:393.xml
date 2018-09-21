@@ -31,6 +31,10 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh98001733">
       <topic>Urban parks</topic>
    </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+      <topic>Architectural photography</topic>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n2004046634">
       <geographic>Fountain City (Tenn.)</geographic>

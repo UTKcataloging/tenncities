@@ -27,6 +27,10 @@
       <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+      <topic>Architectural photography</topic>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n84112228">
       <geographic>Hardin County (Tenn.)</geographic>

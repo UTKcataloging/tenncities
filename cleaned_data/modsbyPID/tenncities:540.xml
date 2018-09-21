@@ -33,6 +33,10 @@
       <topic>Markets</topic>
    </subject>
    <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2017003810">
+      <topic>Photography of markets</topic>
+   </subject>
+   <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
       <topic>Knoxville (Tenn.)--History</topic>
    </subject>
