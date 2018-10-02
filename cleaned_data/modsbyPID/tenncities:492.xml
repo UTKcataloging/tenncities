@@ -11,11 +11,11 @@
       <title>Port of Knoxville Public Terminal</title>
    </titleInfo>
    <abstract>River traffic has flowed through East Tennessee since the area was settled in the late 18th century. From 1930 to 1933, the TVA made a number of improvements to the river that allowed for a significant increase in the quantity of Knoxville's river trade. The TVA operated Knoxville's Public Terminal (located on Neyland Drive) from 1944 to 1952, when it was leased to private interests. In 1962, the terminal was sold and became a for-hire facility.</abstract>
-   <name>
-      <namePart>Robertson</namePart>
+   <name valueURI="http://id.loc.gov/authorities/names/no2018123876">
+      <namePart>Robertson, Ernest Bryan, 1928-2011</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>

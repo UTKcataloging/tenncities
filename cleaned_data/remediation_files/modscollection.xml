@@ -668,7 +668,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3873</identifier>
 <titleInfo><title>Wonderland Hotel</title></titleInfo>
 <abstract>The Wonderland Park resort community (including the Wonderland Hotel) was created in Elkmont in 1912 to rival the Appalachian Club's nearby resort area. The Wonderland Park Hotel and its associated buildings became the Wonderland Club in 1914 when they were sold to a group of private investors from Knoxville. Most of these private owners managed to obtain lifetime leases when the Great Smoky Mountains National Park was created. The majority of these leases were eventually converted to 20-year leases that were later extended to expire in 1992. The Wonderland Hotel ceased operations when its lease expired and collapsed in 2005 while debate over what to do with the historic structures standing in Elkmont raged. Although salvage efforts were discussed, the hotel was demolished in late 2006.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>September 9, 1921</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1921-09-09</dateCreated>
 
@@ -1097,7 +1097,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3884</identifier>
 <titleInfo><title>Knox County Court House</title></titleInfo>
 <abstract>The first Knox County Court House was designed by architect Drury P. Armstrong and constructed in 1842. It was replaced by a more modern building, built in the Queen Anne style, in 1885. Now called the old Knoxville Courthouse, this structure stands on approximately the site of the Federal barracks of James White's Fort. New wings were added to either side of the courthouse in 1919. Tennessee's first governor, John Sevier, and his wives, Sarah Hawkins and Catherine "Bonny Kate" Sherrill, are buried on the lawn.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1956</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1956</dateCreated>
 
@@ -1994,7 +1994,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3907</identifier>
 <titleInfo><title>M.B. Arnstein &amp; Co. Department Store</title></titleInfo>
 <abstract>View of the M.B. Arnstein &amp; Co. Department Store on the corner of Market Street and Union Avenue in downtown Knoxville. Max B. Arnstein (1858-1961) opened the store in 1905, and it was considered one of the South's better stores until it closed in 1928. The TVA later used the building as office space.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1925</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1925</dateCreated>
 
@@ -2033,7 +2033,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3908</identifier>
 <titleInfo><title>Barracks for Federal troops</title></titleInfo>
 <abstract>Painting of a barracks used by the Federal troops who came to Knoxville in 1793 to protect the settlers from Native American attack. The building was located near what is now the corner of Gay Street and Main Street.</abstract>
-<name><namePart>Branson, Lloyd, 1854-1925</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name><namePart>Branson, Lloyd, 1854-1925</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1874-1925</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1874</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1925</dateCreated>
@@ -2852,7 +2852,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3929</identifier>
 <titleInfo><title>Hugh James Agee House</title></titleInfo>
 <abstract>Standing at 1505 Highland Avenue, this house belonged to Knoxville author James Rufus Agee's father, Hugh James Agee. This structure appears in Agee's autobiographical A Death in the Family (1957).</abstract>
-<name><namePart>Lunsford, Hugh B, 1925-2007</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name><namePart>Lunsford, Hugh B, 1925-2007</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>August 1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1968-08</dateCreated>
 
@@ -3203,7 +3203,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3938</identifier>
 <titleInfo><title>Governor William Blount's Office</title></titleInfo>
 <abstract>Both Governor Blount's home and office were built in 1792. Although the home was restored and opened as a museum in the early 1920s, the office was not repaired until 1955. It currently serves as part of the Blount Mansion museum.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1928</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1928</dateCreated>
 
@@ -3515,7 +3515,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3946</identifier>
 <titleInfo><title>Kuhlman's Drug Store No. 2</title></titleInfo>
 <abstract>William D. Kuhlman opened the first of his chain of drugstores at 301 Gay Street in 1894. The store pictured, Kuhlman's Drug Store No. 2, opened at 600 S. Gay Street in 1905. It closed in 1909, but later re-opened at 607 S. Gay Street. Kuhlman eventually established three additional stores: one at 310 W. Clinch Avenue, one at 322 N. Gay Street, and one on S. Gay Street near the Tennessee River Bridge.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1905-1909</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1905</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1909</dateCreated>
@@ -3593,7 +3593,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3948</identifier>
 <titleInfo><title>Central Methodist Episcopal Church, South</title></titleInfo>
 <abstract>Central Methodist Episcopal Church South, designed by Chattanooga architect R.H. Hunt, was dedicated in March of 1927. It represented a combination of two older Knoxville Methodist congregations: Broad Street and Centenary. The church was renamed Central United Methodist Church when the United Methodist Church was formed in 1968. Although membership has dwindled, the church continues to operate today.</abstract>
-<name><namePart>Leslie, Bruce G, 1899-1998</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name><namePart>Leslie, Bruce G, 1899-1998</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1947-1958</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1947</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1958</dateCreated>
@@ -3827,7 +3827,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3954</identifier>
 <titleInfo><title>Church Street Methodist Episcopal Church, South</title></titleInfo>
 <abstract>When the Church Street Methodist Episcopal Church South building (constructed in 1875) was destroyed by fire in 1928, the structure shown replaced it. Although the new building stood at the corner of Henley and Main Streets, the congregation chose to retain "Church Street" in its name. The church's name was changed to Church Street United Methodist Church when the nationwide United Methodist Church was formed in 1968, and this structure continues to operate as a Methodist Church today.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1963</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1963</dateCreated>
@@ -3866,7 +3866,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3955</identifier>
 <titleInfo><title>Church Street Methodist Episcopal Church, South</title></titleInfo>
 <abstract>When the Church Street Methodist Episcopal Church South building (constructed in 1875) was destroyed by fire in 1928, the structure shown replaced it. Although the new building stood at the corner of Henley and Main Streets, the congregation chose to retain "Church Street" in its name. The church's name was changed to Church Street United Methodist Church when the nationwide United Methodist Church was formed in 1968, and this structure continues to operate as a Methodist Church today.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1963</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1963</dateCreated>
@@ -3905,7 +3905,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3956</identifier>
 <titleInfo><title>Church Street Methodist Episcopal Church, South</title></titleInfo>
 <abstract>This building is the second of the two Southern Methodist Episcopal Churches that stood on Church Street between 1836 and 1928. It was built in 1875 and burned down in 1928. After the fire, the congregation elected to build a new structure on the corner of Henley and Main Streets, which continues to operate today.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1906-1928</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1906</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1928</dateCreated>
@@ -3944,7 +3944,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3957</identifier>
 <titleInfo><title>CSX Railroad Bridge</title></titleInfo>
 <abstract>This bridge, which crosses the Tennessee River near the University of Tennessee campus, was built in the 1960s and is used by the commercial CSX railroad line.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1964-1969</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1964</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1969</dateCreated>
@@ -3983,7 +3983,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3958</identifier>
 <titleInfo><title>CSX Railroad Bridge</title></titleInfo>
 <abstract>This bridge, which crosses the Tennessee River near the University of Tennessee campus, was built in the 1960s and is used by the commercial CSX railroad line.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1964-1969</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1964</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1969</dateCreated>
@@ -4022,7 +4022,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3959</identifier>
 <titleInfo><title>CSX Railroad Bridge</title></titleInfo>
 <abstract>This bridge, which crosses the Tennessee River near the University of Tennessee campus, was built in the 1960s and is used by the commercial CSX railroad line.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1964-1969</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1964</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1969</dateCreated>
@@ -4061,7 +4061,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3960</identifier>
 <titleInfo><title>Railroad Bridge</title></titleInfo>
 <abstract>This bridge crosses the Tennessee River near Knoxville. This image was most likely taken while Schmitt was a student at the University of Tennessee.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n50006744"><namePart>Schmitt, Bernadotte Everly, 1886-1969</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n50006744"><namePart>Schmitt, Bernadotte Everly, 1886-1969</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1900-1905</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1900</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1905</dateCreated>
@@ -4334,7 +4334,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3967</identifier>
 <titleInfo><title>Cotton looms at Brookside Mills</title></titleInfo>
 <abstract>Brookside Cotton Mills was founded in 1885. By 1902, it was Knoxville's largest employer with 1,200 employees. The mill ceased operations in 1956, and the last of its buildings was destroyed in 1997. The Development Corporation of Knox County purchased the property in 2006 with the intention of redeveloping it.</abstract>
-<name><namePart>Unknown</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -4412,7 +4412,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3969</identifier>
 <titleInfo><title>Cherokee Textile Mills</title></titleInfo>
 <abstract>Cherokee Textile Mills was founded in Knoxville, Tennessee in 1917. It produced fine cotton goods on a contract basis. The Mill moved from Knoxville to Sevierville, Tennessee, in 1954 as a result of Sevierville's 1951 decision to issue revenue bonds to attract nonlocal business.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1934-1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1934</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1954</dateCreated>
@@ -4841,7 +4841,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3980</identifier>
 <titleInfo><title>Interior of the Tennessee Theater</title></titleInfo>
 <abstract>The Tennessee Theater opened to the public on October 1, 1928. It featured such luxuries as brocade draperies, crystal chandeliers, carpeted draperies, and an ornate dome. This photograph was taken during a radio exhibit featured during the Theater's first month of operation.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>October 1928</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1928-10</dateCreated>
 
@@ -4881,7 +4881,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3981</identifier>
 <titleInfo><title>Audience in the Bijou Theater</title></titleInfo>
 <abstract>The Lamar House Hotel was built in 1817. The Bijou Theatre opened as part of that hotel on March 8, 1909. Over the years, it hosted many famous vaudeville and theater acts. By 2005, however, the Theater was deteriorating and its owners defaulted on their mortgage. Knoxvillians, including Mayor Bill Haslam, banded together to save the Theater and fundraising and renovation efforts are ongoing. This photograph was taken between Acts II and III of _Little Johnny Jones_ on the Bijou's opening night.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>March 8, 1909</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1909-03-08</dateCreated>
 
@@ -4921,7 +4921,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3982</identifier>
 <titleInfo><title>Interior of the Bijou Theater</title></titleInfo>
 <abstract>The Lamar House Hotel was built in 1817. The Bijou Theatre opened as part of that hotel on March 8, 1909. Over the years, it hosted many famous vaudeville and theater acts. By 2005, however, the Theater was deteriorating and its owners defaulted on their mortgage. Knoxvillians, including Mayor Bill Haslam, banded together to save the Theater and fundraising and renovation efforts are ongoing.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1920</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1920</dateCreated>
 
@@ -4961,7 +4961,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3983</identifier>
 <titleInfo><title>Panorama of Knoxville, Tennessee</title></titleInfo>
 <abstract>This section of T.M. Schleier's panorama of Knoxville, Tennessee shows the westernmost part of the city as it appeared shortly after the Civil War. The image includes the University of Tennessee, the Fort Sanders area, and the Tennessee River.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2003126748"><namePart>Schleier, T.M. (Theodore M.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2003126748"><namePart>Schleier, T.M. (Theodore M.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1865</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1865</dateCreated>
 
@@ -5273,7 +5273,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3991</identifier>
 <titleInfo><title>View of Knoxville, Tennessee</title></titleInfo>
 <abstract>Reproduction of the fourth panel of T.M. Schleier's 1865 panorama of Knoxville. The numbers refer to captions added by John S. Van Gilder in 1936. A complete description of the full panorama is housed in UTK-MS-1803.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2003126748"><namePart>Schleier, T.M. (Theodore M.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2003126748"><namePart>Schleier, T.M. (Theodore M.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1865</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1865</dateCreated>
 
@@ -5351,7 +5351,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_3993</identifier>
 <titleInfo><title>View of Knoxville, Tennessee</title></titleInfo>
 <abstract>Reproduction of the third panel of T.M. Schleier's 1865 panorama of Knoxville. The numbers refer to captions added by John S. Van Gilder in 1936. A complete description of the full panorama is housed in UTK-MS-1803.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2003126748"><namePart>Schleier, T.M. (Theodore M.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2003126748"><namePart>Schleier, T.M. (Theodore M.)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1865</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1865</dateCreated>
 
@@ -5702,7 +5702,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4002</identifier>
 <titleInfo><title>Kingston Apartments</title></titleInfo>
 <abstract>The University of Tennessee built the 21-story Kingston Apartments in 1968 in order to accommodate its rapidly expanding student population. The building served as married and graduate student housing until 2006, when New York developer Stanley Mohr bought the property with plans to turn it into a private apartment building.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>May 1, 1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1968-05-01</dateCreated>
 
@@ -5741,7 +5741,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4003</identifier>
 <titleInfo><title>Tennessee River Industry</title></titleInfo>
 <abstract>View of the south bank of the Tennessee River. This photograph shows one of the industrial complexes located east of downtown Knoxville.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1963</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1963</dateCreated>
@@ -5819,7 +5819,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4005</identifier>
 <titleInfo><title>Slums under Hill Street Viaduct</title></titleInfo>
 <abstract>View of slums under Knoxville's Hill Street Viaduct. According to Hyde, this area represents a C-type community: one occupied by caucasians where the total value of the property is $2500 or less. In 1939, the Knoxville Housing Authority was in the process of eliminating such areas as part of a slum clearance program.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -5858,7 +5858,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4006</identifier>
 <titleInfo><title>University of Tennessee's "Hill"</title></titleInfo>
 <abstract>View of the University of Tennessee's "Hill" (including Ayres Hall and South College) and Neyland Stadium.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1968-1972</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1972</dateCreated>
@@ -5936,7 +5936,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4008</identifier>
 <titleInfo><title>Gay Street Bridge</title></titleInfo>
 <abstract>The Union Army built Knoxville's first bridge across the Tennessee River during the Civil War. This structure was washed away in 1867 and subsequently replaced by a toll bridge. A tornado destroyed this span in 1875, and a fourth bridge was constructed in 1880. This structure lasted until 1898, when it was replaced by a modern and much-admired steel bridge.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1890-1898</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1890</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1898</dateCreated>
@@ -6638,7 +6638,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4026</identifier>
 <titleInfo><title>Sand and Gravel Company</title></titleInfo>
 <abstract>Like all of the sand and gravel manufacturing plants operating in Knoxville in 1939, this establishment was located on the banks of the Tennessee River. According to Victor Hyde, such mills were of of considerable local economic importance even though they produced much less than the plants in Western Tennessee and little of their product was shipped outside of East Tennessee.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -6789,12 +6789,51 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
 </mods>
 <mods>
+<identifier type="local">0012_000067_000374</identifier> 
+<identifier type="pid">tenncities:274</identifier>
+<identifier type="spc">record_spc_4030</identifier>
+<titleInfo><title>Ewell Farm (Spring Hill, Tennessee)</title></titleInfo>
+<abstract>George Campbell Brown was born to Lizinka Campbell and James Percy Brown on November 27, 1840. He served in the Confederate Army during the Civil War and later operated his family's farm, called Ewell Farm, in Spring Hill (Maury County) Tennessee. Under his management, the farm expanded into one of the region's most prosperous plantations. After his death on July 30, 1893, his son Lucius Polk Brown took over the thriving family business.</abstract>
+<name><namePart>Unknown</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo><dateCreated>1865-1893</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="start">1865</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="end">1893</dateCreated>
+
+
+
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jp2</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008008375"><topic>Farms--Tennessee</topic></subject>
+
+
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101229"><topic>Landscape photography</topic></subject>
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2002021182"><geographic>Spring Hill (Maury County, Tenn.)</geographic><cartographics><coordinates>35.75118, -86.93</coordinates></cartographics></subject>
+
+
+
+
+
+<typeOfResource>still image</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Images of East Tennessee</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Photographs of Tennessee Cities Collection</title></titleInfo><identifier>MS.0951</identifier><location><url>
+https://n2t.net/ark:/87290/v8kd1w2w</url></location></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
+<mods>
 <identifier type="local">0012_000067_000375</identifier> 
 <identifier type="pid">tenncities:275</identifier>
 <identifier type="spc">record_spc_4031</identifier>
 <titleInfo><title>East Tennessee University</title></titleInfo>
 <abstract>View of students on the "Hill" at East Tennessee University. Visible buildings include North College, South College, and Old College.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81147083"><namePart>Cochran, William C. (William Cox), 1848-1936</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81147083"><namePart>Cochran, William C. (William Cox), 1848-1936</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>September 1, 1986</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1986-09-01</dateCreated>
 
@@ -6833,7 +6872,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4032</identifier>
 <titleInfo><title>East Tennessee University</title></titleInfo>
 <abstract>View of East Tennessee University showing Old College, North College, and South College.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81147083"><namePart>Cochran, William C. (William Cox), 1848-1936</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81147083"><namePart>Cochran, William C. (William Cox), 1848-1936</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>August 11, 1986</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1986-08-11</dateCreated>
 
@@ -7496,7 +7535,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4049</identifier>
 <titleInfo><title>Fulton Sylphon</title></titleInfo>
 <abstract>Weston Fulton, inventor of the Sylphon Bellows, founded Fulton Sylphon in Knoxville in 1904. It manufactured primarily valves and gages, including a thermostat vital to depth charges during World War I and a part crucial to bomb sights during World War II. The company was later sold to Reynolds Metals and then to Robertshaw and Siebe. It also gradually lost its prominence in the field. In 1994, what remained of the business was purchased by Texas leveraged buyout specialist J. Randal Greaves, and its name was changed to Fulton Bellows and Components to reflect its origins. Now known simply as Fulton Bellows LLC and owned by Morris Capital Management Group (which purchased it in August of 2004), the company continues to operate in Knoxville today.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 
@@ -7750,6 +7789,45 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 
 
 
+
+
+<typeOfResource>still image</typeOfResource>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>Images of East Tennessee</title></titleInfo></relatedItem>
+<relatedItem displayLabel="Collection" type="host"><titleInfo><title>Photographs of Tennessee Cities Collection</title></titleInfo><identifier>MS.0951</identifier><location><url>
+https://n2t.net/ark:/87290/v8kd1w2w</url></location></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource><languageOfCataloging><languageTerm type="text" authority="iso639-2b">English</languageTerm></languageOfCataloging><recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin></recordInfo>
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
+<mods>
+<identifier type="local">0012_000067_000400</identifier> 
+<identifier type="pid">tenncities:300</identifier>
+<identifier type="spc">record_spc_4056</identifier>
+<titleInfo><title>Reinternment of Catherine Sevier</title></titleInfo>
+<abstract>In the early 1920s, the Honorable S.G. Heiskell hit upon the idea of reinterring Catherine Sevier (wife of former governor John Sevier) in Knoxville. This photograph, probably taken at the site of Sevier's original burial in Russellville, Alabama, shows the Knoxville delegation dispatched to retrieve her remains. Upon their return, Sevier lay in state at the Women's Building and was reinterred with great fanfare on July 27, 1922. Former governor John Sevier's remains had been reinterred in Knoxville in 1889.</abstract>
+<name><namePart>Unknown</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<originInfo><dateCreated>1922</dateCreated>
+<dateCreated encoding="edtf" keyDate="yes" point="start">1922</dateCreated>
+
+<publisher>Donning Company Publishers</publisher>
+<place><placeTerm>253 West Bute Street, Norfolk, VA 23510</placeTerm></place>
+<dateIssued>1978</dateIssued>
+</originInfo>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form><internetMediaType>image/jp2</internetMediaType><digitalOrigin>reformatted digital</digitalOrigin></physicalDescription>
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85021756"><topic>Cemeteries</topic></subject>
+
+
+
+
+
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82120711"><geographic>Russellville (Ala.)</geographic></subject>
+
+
+<subject><name><namePart>Sevier Family</namePart></name></subject>
 
 
 <typeOfResource>still image</typeOfResource>
@@ -8042,7 +8120,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4064</identifier>
 <titleInfo><title>Tobacco auction in a Knoxville warehouse</title></titleInfo>
 <abstract>View of tobacco grown in western North Carolina being sold "off the floor" in a Knoxville warehouse. According to Victor Hyde, the Unaka Mountains (which constitute part of the Appalachians) are a major factor in guiding trade from North Carolina to Knoxville.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -8159,7 +8237,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4067</identifier>
 <titleInfo><title>Engine Company No. 4</title></titleInfo>
 <abstract>Captain W.H. Cummings (second from left) and R.L. Oliver (driver) on the fire truck from Knoxville Engine Company No. 4. The horse in the foreground, named Bob, helped to pull this fire truck for many years, but died about a week after this picture was taken.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1912</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1912</dateCreated>
 
@@ -8393,7 +8471,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4073</identifier>
 <titleInfo><title>Candoro Marble polishing beds</title></titleInfo>
 <abstract>The J.J. Craig Company founded the Candoro Marble Works in South Knoxville in 1914. This business finished marble blocks taken from quarries in Knox, Blount, and Loudon counties in addition to marble imported from around the world. At its peak, it employed about 140 people.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1914-1930</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1914</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1930</dateCreated>
@@ -8432,7 +8510,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4074</identifier>
 <titleInfo><title>American Limestone Company Mine</title></titleInfo>
 <abstract>The American Limestone Company was established in 1913 to process some of the rock generated by the zinc mines near Knoxville. In 1971, the American Smelting and Refining Company (ASARCO) bought the American Limestone Company, including all four of its Knoxville mines. It continues to process limestone in East Tennessee today.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1913-1971</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1913</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1971</dateCreated>
@@ -8588,7 +8666,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4078</identifier>
 <titleInfo><title>Laundry Day in the Lane Street Slums</title></titleInfo>
 <abstract>View of laundry day in Knoxville's Lane Street slums. According to Hyde, this area represents a C-type community one occupied by caucasians where the total value of the property is $2500 or less. In 1939, the Knoxville Housing Authority was in the process of eliminating such areas as part of a slum clearance program.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -8627,7 +8705,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4079</identifier>
 <titleInfo><title>Louisville &amp; Nashville railroad yards and terminals</title></titleInfo>
 <abstract>View of the Louisville &amp; Nashville Railroad yards and terminals. The Commonwealth of Kentucky granted the L&amp;N a charter on March 5, 1850 and the Tennessee State Legislature authorized the railroad's extension to Nashville on December 4, 1851. The railroad began expanding after the Civil War and eventually reached such cities as Knoxville (Tennessee), Montgomery (Alabama), Norton (Virginia), and New Orleans (Louisiana). By the time the Seabord Coastline Railroad bought the L&amp;N in 1971, it operated 6,574 miles of track in 13 states.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -8900,7 +8978,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4086</identifier>
 <titleInfo><title>Hotel Andrew Johnson</title></titleInfo>
 <abstract>The Andrew Johnson Hotel opened on Gay Street in 1929 and prospered throughout the Great Depression. Its numerous guests included Jean Paul Sarte, Duke Ellington, Amelia Erhart, Liberace, Tony Perkins, and Sergei Rachmaninoff. Knox County purchased the building in 1990, and is considering selling the property for a mix of residential and commercial uses as of June 2007.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1942-1963</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1942</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1963</dateCreated>
@@ -8939,7 +9017,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4087</identifier>
 <titleInfo><title>Farragut Hotel</title></titleInfo>
 <abstract>Named after Admiral David Glasgow Farragut, the Hotel Farragut opened on the corner of Gay and Clinch (the site of the old Imperial Hotel) on February 1, 1919. It flourished until 1929 when the Andrew Johnson Hotel opened nearby, after which time the two hotels provided each other with stiff competition. The Farragut closed in 1977 and was converted into office space in 1978.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1934-1943</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1934</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1943</dateCreated>
@@ -9797,7 +9875,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4109</identifier>
 <titleInfo><title>Gay Street</title></titleInfo>
 <abstract>View on Gay Street, long one of Knoxville's major thoroughfares. Visible businesses include the Park National Bank, Woolworth's, and Kimball's Jewelers.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>January 9, 1915</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1915-01-09</dateCreated>
 
@@ -11747,7 +11825,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4159</identifier>
 <titleInfo><title>Church Street Methodist Episcopal Church, South</title></titleInfo>
 <abstract>When the Church Street Methodist Episcopal Church South building (constructed in 1875) was destroyed by fire in 1928, the structure shown replaced it. Although the new building stood at the corner of Henley and Main Streets, the congregation chose to retain "Church Street" in its name. The church's name was changed to Church Street United Methodist Church when the nationwide United Methodist Church was formed in 1968, and this structure continues to operate as a Methodist Church today.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018075295"><namePart>Thompsons, Inc. Commercial Photographers</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1934-1963</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1934</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1963</dateCreated>
@@ -15179,7 +15257,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4247</identifier>
 <titleInfo><title>Tennessee River Industry</title></titleInfo>
 <abstract>View of the south bank of the Tennessee River. This photograph shows one of the industrial complexes located east of downtown Knoxville.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1968</dateCreated>
@@ -15218,7 +15296,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4248</identifier>
 <titleInfo><title>Port of Knoxville Public Terminal</title></titleInfo>
 <abstract>River traffic has flowed through East Tennessee since the area was settled in the late 18th century. From 1930 to 1933, the TVA made a number of improvements to the river that allowed for a significant increase in the quantity of Knoxville's river trade. The TVA operated Knoxville's Public Terminal (located on Neyland Drive) from 1944 to 1952, when it was leased to private interests. In 1962, the terminal was sold and became a for-hire facility.</abstract>
-<name><namePart>Robertson</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1968</dateCreated>
@@ -15257,7 +15335,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4249</identifier>
 <titleInfo><title>Tennessee River Industry</title></titleInfo>
 <abstract>One of the industrial complexes located east of downtown Knoxville. Visible are a Rose Barge Line ship and a Southern Railway Freight car.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1968</dateCreated>
@@ -15296,7 +15374,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4250</identifier>
 <titleInfo><title>Tennessee River Industry</title></titleInfo>
 <abstract>One of the industrial complexes located on the Tennessee River east of downtown Knoxville.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1968</dateCreated>
@@ -15335,7 +15413,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4251</identifier>
 <titleInfo><title>Port of Knoxville Public Terminal</title></titleInfo>
 <abstract>River traffic has flowed through East Tennessee since the area was settled in the late 18th century. From 1930 to 1933, the TVA made a number of improvements to the river that allowed for a significant increase in the quantity of Knoxville's river trade. The TVA operated Knoxville's Public Terminal (located on Neyland Drive) from 1944 to 1952, when it was leased to private interests. In 1962, the terminal was sold and became a for-hire facility.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1962</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1962</dateCreated>
@@ -15374,7 +15452,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4252</identifier>
 <titleInfo><title>Port of Knoxville Public Terminal</title></titleInfo>
 <abstract>River traffic has flowed through East Tennessee since the area was settled in the late 18th century. From 1930 to 1933, the TVA made a number of improvements to the river that allowed for a significant increase in the quantity of Knoxville's river trade. The TVA operated Knoxville's Public Terminal (located on Neyland Drive) from 1944 to 1952, when it was leased to private interests. In 1962, the terminal was sold and became a for-hire facility.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1962</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1962</dateCreated>
@@ -15452,7 +15530,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4254</identifier>
 <titleInfo><title>Slums along the Tennessee River</title></titleInfo>
 <abstract>View of slums along the Tennessee River. According to Hyde, this area represents a C-type community one occupied by caucasians where the total value of the property is $2500 or less. In 1939, the Knoxville Housing Authority was in the process of eliminating such areas as part of a slum clearance program.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -15491,7 +15569,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4255</identifier>
 <titleInfo><title>View across the Tennessee River</title></titleInfo>
 <abstract>View across the Tennessee River taken from the cupola of the University of Tennessee. One can see the Knoxville &amp; Augusta (later Southern) railroad bridge and the sparse settlement of South Knoxville during the late 19th century.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81147083"><namePart>Cochran, William C. (William Cox), 1848-1936</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n81147083"><namePart>Cochran, William C. (William Cox), 1848-1936</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>August 11, 1986</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1986-08-11</dateCreated>
 
@@ -16349,7 +16427,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4277</identifier>
 <titleInfo><title>Market House and Market Street</title></titleInfo>
 <abstract>Knoxville's original Market House was built in 1816. During the Civil War, the Union used the Market House to store ammunition and business was conducted outside. A new Market House was built in 1897 and merchants offered a wide variety of items, including baked goods, fresh meats, and homegrown fruits and vegetables from permanent stalls and wagons parked outside. After being partially destroyed by fire, this structure was demolished to make way for the Market Street Mall in 1960.</abstract>
-<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817"><namePart>Thompson, James Edward, 1880-1976</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1897-1915</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1897</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1915</dateCreated>
@@ -16427,7 +16505,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4279</identifier>
 <titleInfo><title>Gay Street (400 and 500 blocks)</title></titleInfo>
 <abstract>View on Gay Street, long one of Knoxville's major thoroughfares. Visible businesses include the Park National Bank and Kimball's Jewelers. One can also see the tracks for the electric streetcars that ran in Knoxville during the early 20th century.</abstract>
-<name><namePart>Unknown</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1934-1947</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1934</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1947</dateCreated>
@@ -16544,7 +16622,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4282</identifier>
 <titleInfo><title>Military Parade on Gay Street</title></titleInfo>
 <abstract>Spanish-American War soldiers, likely from Tennessee, parading on Gay Street in approximately 1898. Tennessee raised four regiments for the war, but only two ever saw action: the 1st Tennessee fought in the Philippines (July 1898-January 1901), and the 4th Tennessee served with the occupation force in Cuba (December 1898-May 1899).</abstract>
-<name><namePart>Copeland, Herbert Earl, 1888-1968</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name><namePart>Copeland, Herbert Earl, 1888-1968</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1898</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1898</dateCreated>
 
@@ -16856,7 +16934,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4290</identifier>
 <titleInfo><title>Parade on Gay Street (500 Block)</title></titleInfo>
 <abstract>Parade on Gay Street, long one of Knoxville's major thoroughfares. Visible are the Park National Bank and the Hamilton National Bank Building.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/no2018123876"><namePart>Robertson, Ernest Bryan, 1928-2011</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1954-1968</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1954</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="end">1968</dateCreated>
@@ -17012,7 +17090,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4294</identifier>
 <titleInfo><title>View east from the Hill Street Bridge</title></titleInfo>
 <abstract>View looking east from the Hill Street Bridge. According to Welles, this section is home to "poor whites of unassorted varieties of occupations." Although conditions had improved in previous years, the district was still characterized by poverty, filth, and squalor in 1919.</abstract>
-<name><namePart>Unknown</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1919</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1919</dateCreated>
 
@@ -17051,7 +17129,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4295</identifier>
 <titleInfo><title>Barracks-type houses along First Creek</title></titleInfo>
 <abstract>View of barracks-type houses along First Creek. According to Hyde, these homes are located in a D-Class neighborhood one "occupied by negroes, irrespective of property value." Structures in these sections tend to be "of the poorest type, being constructed of unfinished lumber loosely thrown together and stripped" although some were previously part of slightly more prosperous C-Class neighborhoods.</abstract>
-<name><namePart>Unknown</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 
@@ -17441,7 +17519,7 @@ Created and edited in general conformance to MODS Guidelines (Version 3.5).
 <identifier type="spc">record_spc_4305</identifier>
 <titleInfo><title>Row of "shot gun" houses on King Street</title></titleInfo>
 <abstract>Row of "Shot Gun" houses on Knoxville's King Street. According to Hyde, these homes are located in a D-Class neighborhood: one "occupied by negroes, irrespective of property value." Structures in these sections tend to be "of the poorest type, being constructed of unfinished lumber loosely thrown together and stripped" although some were previously part of slightly more prosperous C-Class neighborhoods.</abstract>
-<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>
+<name valueURI="http://id.loc.gov/authorities/names/n91037596"><namePart>Hyde, Victor A. (Victor Albert)</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 <originInfo><dateCreated>1939</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">1939</dateCreated>
 

@@ -11,11 +11,11 @@
       <title>Gay Street (400 and 500 blocks)</title>
    </titleInfo>
    <abstract>View on Gay Street, long one of Knoxville's major thoroughfares. Visible businesses include the Park National Bank and Kimball's Jewelers. One can also see the tracks for the electric streetcars that ran in Knoxville during the early 20th century.</abstract>
-   <name>
-      <namePart>Unknown</namePart>
+   <name valueURI="http://id.loc.gov/authorities/names/n91037596">
+      <namePart>Hyde, Victor A. (Victor Albert)</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
