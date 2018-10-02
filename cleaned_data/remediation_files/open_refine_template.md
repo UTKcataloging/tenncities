@@ -18,7 +18,7 @@
 {{if(isBlank(cells["identifier_spc"].value), '', '<identifier type="spc">' + cells["identifier_spc"].value + '</identifier>')}}
 {{if(isBlank(cells["title"].value),'', '<titleInfo><title>' + cells['title'].value + '</title></titleInfo>')}}
 <abstract>{{cells['abstract'].value}}</abstract>
-{{if(isBlank(cells['name1'].value), '', '<name' + if(isBlank(cells['name1_authority'].value), '', ' authority="' + cells['name1_authority'].value + '"') + if(isBlank(cells['name1_URI'].value), '', ' valueURI="' + cells['name1_URI'].value +'"') +'>' + '<namePart>' + cells['name1'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm></role></name>')}}
+{{if(isBlank(cells['name1'].value), '', '<name' + if(isBlank(cells['name1_authority'].value), '', ' authority="' + cells['name1_authority'].value + '"') + if(isBlank(cells['name1_URI'].value), '', ' valueURI="' + cells['name1_URI'].value +'"') +'>' + '<namePart>' + cells['name1'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="' + cells['name1_roleTermURI'].value + '">' + cells['name1_roleTerm'].value + '</roleTerm></role></name>')}}
 <originInfo><dateCreated>{{cells['dateCreated'].value}}</dateCreated>
 <dateCreated encoding="edtf" keyDate="yes" point="start">{{cells['edtf'].value}}</dateCreated>
 {{if(isBlank(cells['edtf_end'].value), '', '<dateCreated encoding="edtf" keyDate="yes" point="end">' + cells['edtf_end'].value + '</dateCreated>')}}
