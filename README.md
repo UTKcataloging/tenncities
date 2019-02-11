@@ -8,6 +8,7 @@ Metadata for the migration of Tennessee Cities (part of special collections imag
 
 ```
 |-- cleaned_data
+    |-- collection_record.xml
     |-- modsbypid
       |--tenncities:101.xml
       |--tenncities:102.xml
