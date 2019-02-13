@@ -38,13 +38,23 @@
         <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033618">paintings (visual works)</form>
         <extent>329 phtographs, 152 postcards, 7 maps, 4 stereographs, 1 painting</extent>
     </physicalDescription>
-    <subject>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">Knoxville (Tenn.)--History</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">Architectural photography</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85046347">Exhibition buildings</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026263">City churches</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040261">Dwellings--Tennessee</topic>
-        <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009118693">Central business districts--United States</topic>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007640">
+        <topic>Knoxville (Tenn.)--History</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85101268">
+        <topic>Architectural photography</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85046347">
+        <topic>Exhibition buildings</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85026263">
+        <topic>City churches</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85040261">
+        <topic>Dwellings--Tennessee</topic>
+    </subject>
+    <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2009118693">
+        <topic>Central business districts--United States</topic>
     </subject>
     <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n82114257">
         <name>
