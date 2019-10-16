@@ -82,7 +82,9 @@
         </titleInfo>
         <identifier type="pid">tenncities:472</identifier>
         <abstract>The Gay Street Viaduct was constructed in 1919 when the street's north end was raised by 15 feet. A number of shops moved to locations under the new viaduct, where they prospered for many years. Unfortunately, the structure gradually fell into disrepair and was closed for demolition in November of 2005. It was replaced by a concrete viaduct in late 2006, which remains in use today.</abstract>
-        <dateCreated>1924-1930</dateCreated>
+        <originInfo>
+            <dateCreated>1924-1930</dateCreated>
+        </originInfo>
     </relatedItem>
     <location>
         <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">
