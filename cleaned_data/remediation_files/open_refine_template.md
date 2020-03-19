@@ -15,6 +15,7 @@
 <mods>
 <identifier type="local">{{cells["adminDB"].value}}</identifier> 
 {{if(isBlank(cells["PID"].value), '', '<identifier type="pid">' + cells["PID"].value + '</identifier>')}}
+{{if(isBlank(cells["identifier_no"].value), '', '<identifier type="photograph number">' + cells["identifier_no"].value + '</identifier>')}}
 {{if(isBlank(cells["identifier_spc"].value), '', '<identifier type="spc">' + cells["identifier_spc"].value + '</identifier>')}}
 {{if(isBlank(cells["title"].value),'', '<titleInfo><title>' + cells['title'].value + '</title></titleInfo>')}}
 <abstract>{{cells['abstract'].value}}</abstract>
