@@ -1,22 +1,22 @@
-<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:188> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3944" .
-<http://utk-metadata-object/tenncities:188> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
-<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/abstract> "This house, which stood on Rose Avenue, was home to Charles C. Ross beginning in 1891. His sister Nellie lived with him from 1895 until she married James Milton Bailey in 1898." .
-<http://utk-metadata-object/tenncities:188> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
 <http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:188" .
-<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/created> "1895-1898" .
-<http://utk-metadata-object/tenncities:188> <https://dbpedia.org/ontology/completionDate> "1895/1898" .
 <http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/tenncities:188> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
-<http://utk-metadata-object/tenncities:188> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:188> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85040261> .
-<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
-<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000288" .
 <http://utk-metadata-object/tenncities:188> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85040261> .
+<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
 <http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/title> "Residence of Charles and Nellie Ross" .
+<http://utk-metadata-object/tenncities:188> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3944" .
+<http://utk-metadata-object/tenncities:188> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:188> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n79109786> .
+<http://utk-metadata-object/tenncities:188> <https://dbpedia.org/ontology/completionDate> "1895/1898" .
+<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000288" .
 <http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/identifiers/local> "0089" .
+<http://utk-metadata-object/tenncities:188> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/created> "1895-1898" .
+<http://utk-metadata-object/tenncities:188> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:188" .
+<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/abstract> "This house, which stood on Rose Avenue, was home to Charles C. Ross beginning in 1891. His sister Nellie lived with him from 1895 until she married James Milton Bailey in 1898." .
+<http://utk-metadata-object/tenncities:188> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:188> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .

@@ -1,22 +1,21 @@
-<http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:259" .
-<http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/identifiers/local> "0160" .
-<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/title> "Veterans' reunion at Fort Sanders" .
 <http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/created> "1890" .
-<http://utk-metadata-object/tenncities:259> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:259> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:259> <https://dbpedia.org/ontology/completionDate> "1890" .
-<http://utk-metadata-object/tenncities:259> <https://ontology.lib.utk.edu/roles#pbl> "Donning Company Publishers" .
-<http://utk-metadata-object/tenncities:259> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
 <http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4015" .
 <http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:259> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:259> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:259> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:259> <https://ontology.lib.utk.edu/roles#pup> "253 West Bute Street, Norfolk, VA 23510" .
+<http://utk-metadata-object/tenncities:259> <https://dbpedia.org/ontology/completionDate> "1890" .
+<http://utk-metadata-object/tenncities:259> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4015" .
+<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/issued> "1978" .
+<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/identifiers/local> "0160" .
+<http://utk-metadata-object/tenncities:259> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:259> <https://ontology.lib.utk.edu/roles#pbl> "Donning Company Publishers" .
+<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/title> "Veterans' reunion at Fort Sanders" .
+<http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:259" .
 <http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/abstract> "Reunion of Union and Confederate Civil War veterans of the Battle of Fort Sanders. The paths that evolved into Clinch Avenue, White Avenue, and Seventeenth Street are visible in the foreground and midground. The fort itself is on the horizon." .
 <http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85050919> .
-<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/issued> "1978" .
-<http://utk-metadata-object/tenncities:259> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:259> <https://ontology.lib.utk.edu/roles#pup> "253 West Bute Street, Norfolk, VA 23510" .
-<http://utk-metadata-object/tenncities:259> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:259> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:259> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
 <http://utk-metadata-object/tenncities:259> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000359" .

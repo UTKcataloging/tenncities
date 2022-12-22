@@ -1,21 +1,21 @@
-<http://utk-metadata-object/tenncities:278> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:278" .
-<http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
 <http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/title> "North Knoxville Freeway Interchange" .
-<http://utk-metadata-object/tenncities:278> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101264> .
-<http://utk-metadata-object/tenncities:278> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000378" .
-<http://utk-metadata-object/tenncities:278> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n2008019547> .
 <http://utk-metadata-object/tenncities:278> <https://dbpedia.org/ontology/completionDate> "1960" .
-<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4034" .
-<http://utk-metadata-object/tenncities:278> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.89368, -85.9511" .
-<http://utk-metadata-object/tenncities:278> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh2003007780> .
 <http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/created> "1960" .
-<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Mechanicsville (Tenn.)" .
 <http://utk-metadata-object/tenncities:278> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "0179" .
-<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh2003007780> .
+<http://utk-metadata-object/tenncities:278> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4034" .
 <http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/abstract> "Aerial view of a major freeway interchange in Knoxville." .
+<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:278" .
+<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000378" .
+<http://utk-metadata-object/tenncities:278> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:278> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.89368, -85.9511" .
+<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/identifiers/local> "0179" .
+<http://utk-metadata-object/tenncities:278> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Mechanicsville (Tenn.)" .
 <http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:278> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:278> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:278> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101264> .

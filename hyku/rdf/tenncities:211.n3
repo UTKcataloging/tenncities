@@ -1,25 +1,26 @@
-<http://utk-metadata-object/tenncities:211> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/relators/pht> <http://id.loc.gov/authorities/names/n91037596> .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101228> .
-<http://utk-metadata-object/tenncities:211> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3967" .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:211> <https://id.loc.gov/vocabulary/relators/pup> <http://id.loc.gov/authorities/names/n79109786> .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/issued> "1939" .
 <http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85033348> .
-<http://utk-metadata-object/tenncities:211> <https://ontology.lib.utk.edu/roles#pbl> "University of Tennessee" .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85134356> .
+<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000311" .
 <http://utk-metadata-object/tenncities:211> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/created> "1939" .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/abstract> "Brookside Mills, a textile manufacturer, was founded in 1885. By 1902, it was Knoxville's largest employer with 1,200 employees. The mill ceased operations in 1956, and the last of its buildings was destroyed in 1997." .
+<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3967" .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n81102870> .
+<http://utk-metadata-object/tenncities:211> <https://id.loc.gov/vocabulary/relators/pup> <http://id.loc.gov/authorities/names/n79109786> .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:211> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knox County (Tenn.)" .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101228> .
+<http://utk-metadata-object/tenncities:211> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85134356> .
+<http://utk-metadata-object/tenncities:211> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:211> <https://ontology.lib.utk.edu/roles#pbl> "University of Tennessee" .
+<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/identifiers/local> "0112" .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:211> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/title> "Cotton looms at Brookside Mills" .
 <http://utk-metadata-object/tenncities:211> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.99322, -83.93709" .
 <http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:211" .
-<http://utk-metadata-object/tenncities:211> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000311" .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/abstract> "Brookside Mills, a textile manufacturer, was founded in 1885. By 1902, it was Knoxville's largest employer with 1,200 employees. The mill ceased operations in 1956, and the last of its buildings was destroyed in 1997." .
+<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/relators/pht> <http://id.loc.gov/authorities/names/n91037596> .
 <http://utk-metadata-object/tenncities:211> <https://dbpedia.org/ontology/completionDate> "1939" .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/title> "Cotton looms at Brookside Mills" .
-<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/vocabulary/identifiers/local> "0112" .
-<http://utk-metadata-object/tenncities:211> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knox County (Tenn.)" .
-<http://utk-metadata-object/tenncities:211> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/issued> "1939" .
+<http://utk-metadata-object/tenncities:211> <http://purl.org/dc/terms/created> "1939" .

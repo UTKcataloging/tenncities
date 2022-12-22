@@ -1,23 +1,23 @@
-<http://utk-metadata-object/tenncities:434> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/abstract> "In 1885, Charles McClung McGhee established Lawson McGhee Library as a memorial to his daughter, May Lawson McGhee Williams. The original building on the corner of Gay Street and Vine Avenue was replaced by this white marble structure on the corner of Market Street and Commerce Avenue in 1917. It remained in use until 1971, when a new building was constructed." .
-<http://utk-metadata-object/tenncities:434> <https://w3id.org/idsa/core/keyword> "Standard News Agency" .
-<http://utk-metadata-object/tenncities:434> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:434> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:434> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
 <http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85076666> .
-<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4190" .
-<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/created> "1936-1946" .
 <http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
-<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "0335" .
-<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000534" .
-<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/tenncities:434> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
-<http://utk-metadata-object/tenncities:434> <https://dbpedia.org/ontology/completionDate> "1936/1946" .
 <http://utk-metadata-object/tenncities:434> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:434" .
 <http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/title> "Lawson McGhee Library" .
+<http://utk-metadata-object/tenncities:434> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/created> "1936-1946" .
+<http://utk-metadata-object/tenncities:434> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "0335" .
+<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:434> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:434" .
+<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000534" .
+<http://utk-metadata-object/tenncities:434> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n79109786> .
+<http://utk-metadata-object/tenncities:434> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4190" .
+<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85076666> .
+<http://utk-metadata-object/tenncities:434> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:434> <https://dbpedia.org/ontology/completionDate> "1936/1946" .
+<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/abstract> "In 1885, Charles McClung McGhee established Lawson McGhee Library as a memorial to his daughter, May Lawson McGhee Williams. The original building on the corner of Gay Street and Vine Avenue was replaced by this white marble structure on the corner of Market Street and Commerce Avenue in 1917. It remained in use until 1971, when a new building was constructed." .
+<http://utk-metadata-object/tenncities:434> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:434> <https://w3id.org/idsa/core/keyword> "Standard News Agency" .
 <http://utk-metadata-object/tenncities:434> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
-<http://utk-metadata-object/tenncities:434> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .

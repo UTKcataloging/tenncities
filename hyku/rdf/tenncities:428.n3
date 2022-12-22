@@ -1,19 +1,18 @@
-<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh87007426> .
 <http://utk-metadata-object/tenncities:428> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:428> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "0329" .
-<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/abstract> "Ralph Lawson Berry founded the Ralph L. Berry Funeral Home on September 20, 1928. His son, Fred O. Berry Sr., joined him in the business in 1934, but problems among the stockholders forced both to resign in 1936. In 1937, Ralph Berry, Fred Berry, and Edward Weigel founded the Berry Funeral Home on South Gay Street. In 1948, the business expanded when the Berry Funeral Home purchased and remodeled a structure (shown here) on Chapman Highway. A number of other major expansions were made in later years, including a merger with SCI Funeral Services of Tennessee." .
-<http://utk-metadata-object/tenncities:428> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4184" .
-<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000528" .
-<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:428" .
 <http://utk-metadata-object/tenncities:428> <https://dbpedia.org/ontology/completionDate> "1958" .
-<http://utk-metadata-object/tenncities:428> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
 <http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/created> "1958" .
-<http://utk-metadata-object/tenncities:428> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:428> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:428> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:428> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/abstract> "Ralph Lawson Berry founded the Ralph L. Berry Funeral Home on September 20, 1928. His son, Fred O. Berry Sr., joined him in the business in 1934, but problems among the stockholders forced both to resign in 1936. In 1937, Ralph Berry, Fred Berry, and Edward Weigel founded the Berry Funeral Home on South Gay Street. In 1948, the business expanded when the Berry Funeral Home purchased and remodeled a structure (shown here) on Chapman Highway. A number of other major expansions were made in later years, including a merger with SCI Funeral Services of Tennessee." .
+<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:428" .
+<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000528" .
+<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "0329" .
+<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4184" .
+<http://utk-metadata-object/tenncities:428> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
 <http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/title> "Berry Funeral Home" .
+<http://utk-metadata-object/tenncities:428> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh87007426> .
+<http://utk-metadata-object/tenncities:428> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:428> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .

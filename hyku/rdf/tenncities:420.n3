@@ -1,23 +1,22 @@
-<http://utk-metadata-object/tenncities:420> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:420> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:420" .
-<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000520" .
-<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/names/n94062292> .
-<http://utk-metadata-object/tenncities:420> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:420> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:420> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/identifiers/local> "0321" .
-<http://utk-metadata-object/tenncities:420> <https://dbpedia.org/ontology/completionDate> "Jul 24, 1915" .
-<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/title> "Louisville & Nashville Railroad Depot" .
-<http://utk-metadata-object/tenncities:420> <https://ontology.lib.utk.edu/roles#pup> "500 W Church Ave, Knoxville, TN 37902" .
-<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/abstract> "Louisville & Nashville Railroad Depot was completed in 1906 and featured such amenities as a Ladies' Waiting Room with a private entrance, a fireplace, rocking chairs, and desks complete with L&N stationery. The building was renovated for the 1982 World's Fair." .
-<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/created> "Jul 24, 1915" .
 <http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4176" .
+<http://utk-metadata-object/tenncities:420> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/identifiers/local> "0321" .
+<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/created> "Jul 24, 1915" .
+<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/abstract> "Louisville & Nashville Railroad Depot was completed in 1906 and featured such amenities as a Ladies' Waiting Room with a private entrance, a fireplace, rocking chairs, and desks complete with L&N stationery. The building was renovated for the 1982 World's Fair." .
+<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/title> "Louisville & Nashville Railroad Depot" .
+<http://utk-metadata-object/tenncities:420> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
 <http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh87002049> .
+<http://utk-metadata-object/tenncities:420> <https://dbpedia.org/ontology/completionDate> "Jul 24, 1915" .
+<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000520" .
+<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
 <http://utk-metadata-object/tenncities:420> <https://ontology.lib.utk.edu/roles#pbl> "East Tennessee Historical Society" .
-<http://utk-metadata-object/tenncities:420> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/issued> "1991" .
+<http://utk-metadata-object/tenncities:420> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
 <http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:420> <https://ontology.lib.utk.edu/roles#pup> "500 W Church Ave, Knoxville, TN 37902" .
+<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
 <http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:420> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/issued> "1991" .
+<http://utk-metadata-object/tenncities:420> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:420> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/names/n94062292> .
+<http://utk-metadata-object/tenncities:420> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:420" .

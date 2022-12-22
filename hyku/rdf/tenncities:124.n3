@@ -1,24 +1,24 @@
-<http://utk-metadata-object/tenncities:124> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/abstract> "Knoxville High School was built on the site of the old J. Y. Johnston home in 1910 and expanded in 1914 and 1920. The school's last class graduated in 1951, after which the structure served as the city schools administration's headquarters. The building was repurposed again in the 1980s to house educational programs such as adult education and continuing education." .
-<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
-<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3880" .
-<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:124" .
-<http://utk-metadata-object/tenncities:124> <https://dbpedia.org/ontology/completionDate> "1915" .
-<http://utk-metadata-object/tenncities:124> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/created> "1915" .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/names/n87126861> .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
 <http://utk-metadata-object/tenncities:124> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:124> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:124> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/title> "Knoxville High School" .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/created> "1915" .
 <http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:124> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
-<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000224" .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "0025" .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh2005002657> .
-<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85060735> .
 <http://utk-metadata-object/tenncities:124> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:124> <https://dbpedia.org/ontology/completionDate> "1915" .
+<http://utk-metadata-object/tenncities:124> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:124> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:124> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/abstract> "Knoxville High School was built on the site of the old J. Y. Johnston home in 1910 and expanded in 1914 and 1920. The school's last class graduated in 1951, after which the structure served as the city schools administration's headquarters. The building was repurposed again in the 1980s to house educational programs such as adult education and continuing education." .
+<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000224" .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh2005002657> .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/title> "Knoxville High School" .
+<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3880" .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n79109786> .
+<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:124" .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85060735> .
+<http://utk-metadata-object/tenncities:124> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/names/n87126861> .
+<http://utk-metadata-object/tenncities:124> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/vocabulary/identifiers/local> "0025" .
+<http://utk-metadata-object/tenncities:124> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .

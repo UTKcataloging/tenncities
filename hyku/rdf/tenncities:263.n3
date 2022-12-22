@@ -1,19 +1,19 @@
-<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:263> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "0164" .
-<http://utk-metadata-object/tenncities:263> <https://dbpedia.org/ontology/completionDate> "1869/1901" .
-<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Tennessee River" .
-<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:263" .
-<http://utk-metadata-object/tenncities:263> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/title> "Island Home Farm" .
-<http://utk-metadata-object/tenncities:263> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4019" .
-<http://utk-metadata-object/tenncities:263> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000363" .
-<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/created> "1869-1901" .
-<http://utk-metadata-object/tenncities:263> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:263> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/abstract> "View of Island Home Farm in south Knoxville. Perez Dickinson, born in Amherst, Massachusetts, in 1813, moved to Knoxville around 1830 and quickly became a popular and successful merchant. He purchased Williams Island (located on the Tennessee River) in 1869. Here, he constructed a manor house and established Island Home Farm. He raised crops of fruits and vegetables until his death in 1901." .
 <http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/title> "Island Home Farm" .
+<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "0164" .
+<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/subjects/sh85133887> .
+<http://utk-metadata-object/tenncities:263> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:263> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000363" .
+<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4019" .
+<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/created> "1869-1901" .
+<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Tennessee River" .
+<http://utk-metadata-object/tenncities:263> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:263> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:263" .
+<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:263> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
 <http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:263> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/abstract> "View of Island Home Farm in south Knoxville. Perez Dickinson, born in Amherst, Massachusetts, in 1813, moved to Knoxville around 1830 and quickly became a popular and successful merchant. He purchased Williams Island (located on the Tennessee River) in 1869. Here, he constructed a manor house and established Island Home Farm. He raised crops of fruits and vegetables until his death in 1901." .
+<http://utk-metadata-object/tenncities:263> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:263> <https://dbpedia.org/ontology/completionDate> "1869/1901" .

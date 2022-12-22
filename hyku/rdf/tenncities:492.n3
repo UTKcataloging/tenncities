@@ -1,19 +1,20 @@
+<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/subjects/sh85133887> .
+<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4248" .
+<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/relators/pht> <http://id.loc.gov/authorities/names/no2018123876> .
+<http://utk-metadata-object/tenncities:492> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/created> "1954-1968" .
+<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Tennessee River" .
+<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:492" .
+<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/title> "Port of Knoxville Public Terminal" .
+<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000592" .
+<http://utk-metadata-object/tenncities:492> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "0393" .
+<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:492> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
 <http://utk-metadata-object/tenncities:492> <https://dbpedia.org/ontology/completionDate> "1954/1968" .
 <http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:492" .
-<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/created> "1954-1968" .
-<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/relators/pht> <http://id.loc.gov/authorities/names/no2018123876> .
-<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000592" .
-<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/abstract> "River traffic has flowed through East Tennessee since the area was settled in the late 18th century. From 1930 to 1933, Tennessee Valley Authority (TVA) made a number of improvements to the river that allowed for a significant increase in the quantity of Knoxville's river trade. TVA operated Knoxville's Public Terminal (located on Neyland Drive) from 1944 to 1952, when it was leased to private interests. In 1962, the terminal was sold and became a for-hire facility." .
-<http://utk-metadata-object/tenncities:492> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:492> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Tennessee River" .
-<http://utk-metadata-object/tenncities:492> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:492> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4248" .
-<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/title> "Port of Knoxville Public Terminal" .
-<http://utk-metadata-object/tenncities:492> <http://id.loc.gov/vocabulary/identifiers/local> "0393" .
 <http://utk-metadata-object/tenncities:492> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:492> <http://purl.org/dc/terms/abstract> "River traffic has flowed through East Tennessee since the area was settled in the late 18th century. From 1930 to 1933, Tennessee Valley Authority (TVA) made a number of improvements to the river that allowed for a significant increase in the quantity of Knoxville's river trade. TVA operated Knoxville's Public Terminal (located on Neyland Drive) from 1944 to 1952, when it was leased to private interests. In 1962, the terminal was sold and became a for-hire facility." .
+<http://utk-metadata-object/tenncities:492> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .

@@ -1,21 +1,21 @@
-<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/rps> <http://id.loc.gov/authorities/names/no2014027633> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/abstract> "Featuring postcards and photographs from the mid-nineteenth century through the late-twentieth century, this collection is particularly rich in images of Knoxville. It includes pictures of airports, homes, businesses, schools, churches, hospitals, vistas, people, and the 1982 World's Fair." .
-<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/cre> <http://id.loc.gov/authorities/names/no2018123876> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85046347> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85040261> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/collections:tenncities> <http://rdaregistry.info/Elements/u/P60550> "329 photographs, 152 postcards, 7 maps, 4 stereographs, 1 painting" .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300033618> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh2009118693> .
-<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/cre> <http://id.loc.gov/authorities/names/n78030817> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85026263> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/title> "Images of East Tennessee" .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/created> "2007" .
-<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/cre> <http://id.loc.gov/authorities/names/n91037596> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300026816> .
 <http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300028094> .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/created> "1791" .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300033618> .
 <http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300127197> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/cre> <http://id.loc.gov/authorities/names/no2018123876> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/abstract> "Featuring postcards and photographs from the mid-nineteenth century through the late-twentieth century, this collection is particularly rich in images of Knoxville. It includes pictures of airports, homes, businesses, schools, churches, hospitals, vistas, people, and the 1982 World's Fair." .
+<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/rps> <http://id.loc.gov/authorities/names/no2014027633> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85026263> .
+<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/cre> <http://id.loc.gov/authorities/names/n91037596> .
 <http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/created> "1791-2007" .
-<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/30004630> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85046347> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh2009118693> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/title> "Images of East Tennessee" .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300026816> .
+<http://utk-metadata-object/collections:tenncities> <http://rdaregistry.info/Elements/u/P60550> "329 photographs, 152 postcards, 7 maps, 4 stereographs, 1 painting" .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85040261> .
+<http://utk-metadata-object/collections:tenncities> <http://id.loc.gov/vocabulary/relators/cre> <http://id.loc.gov/authorities/names/n78030817> .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/created> "2007" .
+<http://utk-metadata-object/collections:tenncities> <http://purl.org/dc/terms/created> "1791" .

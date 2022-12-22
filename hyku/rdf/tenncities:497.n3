@@ -1,20 +1,20 @@
-<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:497" .
 <http://utk-metadata-object/tenncities:497> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.19868, -88.18448" .
-<http://utk-metadata-object/tenncities:497> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
 <http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000597" .
 <http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/created> "1938" .
-<http://utk-metadata-object/tenncities:497> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:497> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:497> <https://dbpedia.org/ontology/completionDate> "1938" .
-<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Hardin County (Tenn.)" .
-<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:497> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4253" .
-<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
 <http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/title> "Barge on Pickwick Lake" .
-<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/identifiers/local> "0398" .
-<http://utk-metadata-object/tenncities:497> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/abstract> "View of a barge on Pickwick Lake. Pickwick Lake, which boasts about 490 miles of shoreline and 43,100 acres of water surface, began to fill in 1938 after the construction of Pickwick Landing Dam. Although the dam is located in Tennessee, much of the lake extends into northern Alabama where it covers a large portion of Muscle Shoals and so makes the Tennessee River much easier to navigate." .
+<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
 <http://utk-metadata-object/tenncities:497> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/identifiers/local> "0398" .
+<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n84112228> .
+<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Hardin County (Tenn.)" .
+<http://utk-metadata-object/tenncities:497> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/abstract> "View of a barge on Pickwick Lake. Pickwick Lake, which boasts about 490 miles of shoreline and 43,100 acres of water surface, began to fill in 1938 after the construction of Pickwick Landing Dam. Although the dam is located in Tennessee, much of the lake extends into northern Alabama where it covers a large portion of Muscle Shoals and so makes the Tennessee River much easier to navigate." .
+<http://utk-metadata-object/tenncities:497> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:497> <https://dbpedia.org/ontology/completionDate> "1938" .
+<http://utk-metadata-object/tenncities:497> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4253" .
+<http://utk-metadata-object/tenncities:497> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:497> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:497" .
+<http://utk-metadata-object/tenncities:497> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .

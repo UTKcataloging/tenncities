@@ -1,26 +1,26 @@
-<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000617" .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/abstract> "View on Gay Street in downtown Knoxville. This particular image shows the street before the dip was filled in. The iron bridge crossing the railroad tracks is visible in the distance. Before this bridge was constructed in 1876, Gay Street ended at the tracks and routinely flooded in wet weather." .
-<http://utk-metadata-object/tenncities:517> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:517> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:517> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85114555> .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
-<http://utk-metadata-object/tenncities:517> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/identifiers/local> "0418" .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/created> "1908-1920" .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:517> <https://dbpedia.org/ontology/completionDate> "1908/1920" .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85128662> .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
 <http://utk-metadata-object/tenncities:517> <https://ontology.lib.utk.edu/roles#pbl> "Donning Company Publishers" .
-<http://utk-metadata-object/tenncities:517> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
-<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
-<http://utk-metadata-object/tenncities:517> <https://ontology.lib.utk.edu/roles#pup> "253 West Bute Street, Norfolk, VA 23510" .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/issued> "1978" .
-<http://utk-metadata-object/tenncities:517> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
 <http://utk-metadata-object/tenncities:517> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
 <http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4273" .
-<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/title> "Gay Street" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/created> "1908-1920" .
 <http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:517" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:517> <https://ontology.lib.utk.edu/roles#pup> "253 West Bute Street, Norfolk, VA 23510" .
+<http://utk-metadata-object/tenncities:517> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:517> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:517> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000617" .
+<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/abstract> "View on Gay Street in downtown Knoxville. This particular image shows the street before the dip was filled in. The iron bridge crossing the railroad tracks is visible in the distance. Before this bridge was constructed in 1876, Gay Street ended at the tracks and routinely flooded in wet weather." .
+<http://utk-metadata-object/tenncities:517> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:517> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n79109786> .
+<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/vocabulary/identifiers/local> "0418" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/issued> "1978" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85114555> .
+<http://utk-metadata-object/tenncities:517> <https://dbpedia.org/ontology/completionDate> "1908/1920" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85128662> .
+<http://utk-metadata-object/tenncities:517> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:517> <http://purl.org/dc/terms/title> "Gay Street" .

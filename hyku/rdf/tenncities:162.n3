@@ -1,21 +1,21 @@
-<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000262" .
-<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/created> "1900-1936" .
-<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
-<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:162" .
-<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/abstract> "Captain Thomas Tomlinson built Tate Springs Hotel in the late 1800s near one of the mineral springs flowing from Clinch Mountain in Grainger County. The resort, which featured cottages, stables, a golf course, and a park, was extremely prosperous until the Great Depression. The original structure was torn down in 1936 and the property was sold to Kingswood School in 1941. The only remnant of the hotel is a gazebo standing near the mineral spring." .
-<http://utk-metadata-object/tenncities:162> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
-<http://utk-metadata-object/tenncities:162> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
-<http://utk-metadata-object/tenncities:162> <https://dbpedia.org/ontology/completionDate> "1900/1936" .
-<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
-<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
-<http://utk-metadata-object/tenncities:162> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
-<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Grainger County (Tenn.)" .
-<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/title> "Tate Springs Hotel" .
-<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85062487> .
-<http://utk-metadata-object/tenncities:162> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
-<http://utk-metadata-object/tenncities:162> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
-<http://utk-metadata-object/tenncities:162> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "36.27625, -83.50962" .
-<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3918" .
 <http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/identifiers/local> "0063" .
 <http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
-<http://utk-metadata-object/tenncities:162> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:162> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/title> "Tate Springs Hotel" .
+<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:162" .
+<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:162> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000262" .
+<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85062487> .
+<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/created> "1900-1936" .
+<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3918" .
+<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/spatial> <http://id.loc.gov/authorities/names/n81139866> .
+<http://utk-metadata-object/tenncities:162> <https://dbpedia.org/ontology/completionDate> "1900/1936" .
+<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/abstract> "Captain Thomas Tomlinson built Tate Springs Hotel in the late 1800s near one of the mineral springs flowing from Clinch Mountain in Grainger County. The resort, which featured cottages, stables, a golf course, and a park, was extremely prosperous until the Great Depression. The original structure was torn down in 1936 and the property was sold to Kingswood School in 1941. The only remnant of the hotel is a gazebo standing near the mineral spring." .
+<http://utk-metadata-object/tenncities:162> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:162> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:162> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Grainger County (Tenn.)" .
+<http://utk-metadata-object/tenncities:162> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "36.27625, -83.50962" .
+<http://utk-metadata-object/tenncities:162> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:162> <http://dbpedia.org/ontology/isPartOf> <https://n2t.net/ark:/87290/v8kd1w2w> .
