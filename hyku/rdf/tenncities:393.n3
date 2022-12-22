@@ -1,0 +1,21 @@
+<http://utk-metadata-object/tenncities:393> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:393> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:393> <http://purl.org/dc/terms/title> "Lake at Fountain City" .
+<http://utk-metadata-object/tenncities:393> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:393> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000493" .
+<http://utk-metadata-object/tenncities:393> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:393> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "36.03203, -83.93741" .
+<http://utk-metadata-object/tenncities:393> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:393> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Fountain City (Tenn.)" .
+<http://utk-metadata-object/tenncities:393> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:393> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:393" .
+<http://utk-metadata-object/tenncities:393> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:393> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:393> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh98001733> .
+<http://utk-metadata-object/tenncities:393> <http://id.loc.gov/vocabulary/identifiers/local> "0294" .
+<http://utk-metadata-object/tenncities:393> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4149" .
+<http://utk-metadata-object/tenncities:393> <https://dbpedia.org/ontology/completionDate> "1910" .
+<http://utk-metadata-object/tenncities:393> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:393> <http://purl.org/dc/terms/created> "1910" .
+<http://utk-metadata-object/tenncities:393> <http://purl.org/dc/terms/abstract> "View of a lake in Fountain City in northern Knoxville." .
+<http://utk-metadata-object/tenncities:393> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .

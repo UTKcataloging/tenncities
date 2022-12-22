@@ -1,0 +1,25 @@
+<http://utk-metadata-object/tenncities:148> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:148> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000248" .
+<http://utk-metadata-object/tenncities:148> <http://id.loc.gov/vocabulary/identifiers/local> "0049" .
+<http://utk-metadata-object/tenncities:148> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:148> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:148> <http://id.loc.gov/vocabulary/relators/cre> <http://id.loc.gov/authorities/names/n80003889> .
+<http://utk-metadata-object/tenncities:148> <https://ontology.lib.utk.edu/roles#pbl> "Donning Company Publishers" .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/abstract> "Built in 1812, this structure originally served as prominent Knoxvillian James Parks' private residence. The Knoxville Academy of Medicine purchased the building in 1949 and added a large addition (not shown) in 1968. The building is now listed on the National Register of Historic Places." .
+<http://utk-metadata-object/tenncities:148> <https://ontology.lib.utk.edu/roles#pup> "253 West Bute Street, Norfolk, VA 23510" .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:148> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:148" .
+<http://utk-metadata-object/tenncities:148> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:148> <https://dbpedia.org/ontology/completionDate> "1950/1959" .
+<http://utk-metadata-object/tenncities:148> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/issued> "1978" .
+<http://utk-metadata-object/tenncities:148> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:148> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3904" .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/created> "1950-1959" .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85082890> .
+<http://utk-metadata-object/tenncities:148> <http://purl.org/dc/terms/title> "Knoxville Academy of Medicine" .
+<http://utk-metadata-object/tenncities:148> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:148> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .

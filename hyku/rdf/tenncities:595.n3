@@ -1,0 +1,20 @@
+<http://utk-metadata-object/tenncities:595> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3856" .
+<http://utk-metadata-object/tenncities:595> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:595> <http://purl.org/dc/terms/abstract> "Aerial image of McGhee Tyson airport showing the original terminal (with apron) and traffic circle." .
+<http://utk-metadata-object/tenncities:595> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:595> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:595" .
+<http://utk-metadata-object/tenncities:595> <http://purl.org/dc/terms/title> "Aerial view of McGhee Tyson Airport" .
+<http://utk-metadata-object/tenncities:595> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:595> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:595> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:595> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:595> <https://dbpedia.org/ontology/completionDate> "1955" .
+<http://utk-metadata-object/tenncities:595> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Blount County (Tenn.)" .
+<http://utk-metadata-object/tenncities:595> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:595> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:595> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000200" .
+<http://utk-metadata-object/tenncities:595> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85002960> .
+<http://utk-metadata-object/tenncities:595> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:595> <http://purl.org/dc/terms/created> "1955" .
+<http://utk-metadata-object/tenncities:595> <http://id.loc.gov/vocabulary/identifiers/local> "0001" .
+<http://utk-metadata-object/tenncities:595> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.68724, -83.92553" .

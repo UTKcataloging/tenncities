@@ -1,0 +1,26 @@
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85081355> .
+<http://utk-metadata-object/tenncities:374> <http://id.loc.gov/vocabulary/identifiers/local> "0275" .
+<http://utk-metadata-object/tenncities:374> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:374> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:374> <https://ontology.lib.utk.edu/roles#pbl> "East Tennessee Historical Society" .
+<http://utk-metadata-object/tenncities:374> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:374> <https://w3id.org/idsa/core/keyword> "Rotograph Company (New York)" .
+<http://utk-metadata-object/tenncities:374> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4130" .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/issued> "1991" .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:374> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:374> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:374" .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:374> <https://ontology.lib.utk.edu/roles#pup> "500 W Church Ave, Knoxville, TN 37902" .
+<http://utk-metadata-object/tenncities:374> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:374> <https://dbpedia.org/ontology/completionDate> "1897/1960" .
+<http://utk-metadata-object/tenncities:374> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:374> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000474" .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/abstract> "Knoxville's original Public Hall, better known as Market House, was built in 1816. During the Civil War, the Union Army used the Market House to store ammunition and business was conducted outside. A new Market House (shown) was built in 1897 and merchants offered a wide variety of items, including baked goods, fresh meats, and homegrown fruits and vegetables from permanent stalls and wagons parked outside. After being partially destroyed by fire, this structure was demolished to make way for the Market Street Mall in 1960." .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/created> "1897-1960" .
+<http://utk-metadata-object/tenncities:374> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:374> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:374> <http://purl.org/dc/terms/title> "Public Hall" .
+<http://utk-metadata-object/tenncities:374> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .

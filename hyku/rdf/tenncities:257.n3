@@ -1,0 +1,22 @@
+<http://utk-metadata-object/tenncities:257> <https://dbpedia.org/ontology/completionDate> "1880/1898" .
+<http://utk-metadata-object/tenncities:257> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:257> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:257> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:257> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh87002049> .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:257> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:257> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:257> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:257> <http://id.loc.gov/vocabulary/identifiers/local> "0158" .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:257> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:257" .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/title> "Knoxville & Augusta Railroad Bridge" .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/created> "1880-1898" .
+<http://utk-metadata-object/tenncities:257> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:257> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:257> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000357" .
+<http://utk-metadata-object/tenncities:257> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4013" .
+<http://utk-metadata-object/tenncities:257> <http://purl.org/dc/terms/abstract> "View of the Knoxville & Augusta (later Southern) Railroad bridge. This picture was taken from near the foot of the University of Tennessee's \"Hill\" and shows the sparse development of south Knoxville during the late 19th and early 20th century." .

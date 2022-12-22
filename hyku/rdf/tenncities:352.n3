@@ -1,0 +1,23 @@
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/abstract> "East Main Avenue Methodist Episcopal Church was built in about 1900 at 1249 East Main Avenue. It was replaced by Mount Olive Baptist Church in 1947, and later the Knoxville Civic Auditorium and Coliseum was built at the site." .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85026263> .
+<http://utk-metadata-object/tenncities:352> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:352> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:352> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:352> <http://id.loc.gov/vocabulary/identifiers/local> "0253" .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:352> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000452" .
+<http://utk-metadata-object/tenncities:352> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:352" .
+<http://utk-metadata-object/tenncities:352> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:352> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85025873> .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/created> "1911" .
+<http://utk-metadata-object/tenncities:352> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:352> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:352> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:352> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4108" .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/title> "East Main Avenue Methodist Episcopal Church" .
+<http://utk-metadata-object/tenncities:352> <https://dbpedia.org/ontology/completionDate> "1911" .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:352> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:352> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .

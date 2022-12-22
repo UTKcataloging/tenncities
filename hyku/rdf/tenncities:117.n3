@@ -1,0 +1,24 @@
+<http://utk-metadata-object/tenncities:117> <http://id.loc.gov/vocabulary/identifiers/local> "0018" .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:117> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3873" .
+<http://utk-metadata-object/tenncities:117> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.60065, -83.50877" .
+<http://utk-metadata-object/tenncities:117> <https://id.loc.gov/vocabulary/relators/pup> <http://id.loc.gov/authorities/names/n79022924> .
+<http://utk-metadata-object/tenncities:117> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:117> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Great Smoky Mountains National Park (N.C. And Tenn.)" .
+<http://utk-metadata-object/tenncities:117> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000217" .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/issued> "2006" .
+<http://utk-metadata-object/tenncities:117> <https://dbpedia.org/ontology/completionDate> "Sep 9, 1921" .
+<http://utk-metadata-object/tenncities:117> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:117> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:117> <http://id.loc.gov/vocabulary/relators/pht> <http://id.loc.gov/authorities/names/n78030817> .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85062487> .
+<http://utk-metadata-object/tenncities:117> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/created> "Sep 9, 1921" .
+<http://utk-metadata-object/tenncities:117> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:117" .
+<http://utk-metadata-object/tenncities:117> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/abstract> "The Wonderland Park resort community (including Wonderland Hotel) was created in Elkmont in 1912 to rival the Appalachian Club's nearby resort area. Wonderland Hotel and its associated buildings became Wonderland Club in 1914 when they were sold to a group of private investors from Knoxville. Most of these private owners managed to obtain lifetime leases when the Great Smoky Mountains National Park was created. The majority of these leases were eventually converted to 20-year leases that were later extended to expire in 1992. Wonderland Hotel ceased operations when its lease expired and collapsed in 2005 while debate over what to do with the historic structures standing in Elkmont raged. Although salvage efforts were discussed, the hotel was demolished in late 2006." .
+<http://utk-metadata-object/tenncities:117> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:117> <https://ontology.lib.utk.edu/roles#pbl> "Arcadia Publishing" .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/title> "Wonderland Hotel" .
+<http://utk-metadata-object/tenncities:117> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .

@@ -1,0 +1,21 @@
+<http://utk-metadata-object/tenncities:419> <http://purl.org/dc/terms/abstract> "View of the Holston and French Broad Rivers forming the Tennessee River." .
+<http://utk-metadata-object/tenncities:419> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:419> <https://dbpedia.org/ontology/completionDate> "Jul 10, 1937" .
+<http://utk-metadata-object/tenncities:419> <https://w3id.org/idsa/core/keyword> "Dickinson Family" .
+<http://utk-metadata-object/tenncities:419> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:419> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Tennessee River" .
+<http://utk-metadata-object/tenncities:419> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:419" .
+<http://utk-metadata-object/tenncities:419> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:419> <http://purl.org/dc/terms/title> "Holston and French Broad Rivers forming the Tennessee River" .
+<http://utk-metadata-object/tenncities:419> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:419> <http://purl.org/dc/terms/created> "Jul 10, 1937" .
+<http://utk-metadata-object/tenncities:419> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:419> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:419> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:419> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4175" .
+<http://utk-metadata-object/tenncities:419> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:419> <http://id.loc.gov/vocabulary/identifiers/local> "0320" .
+<http://utk-metadata-object/tenncities:419> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:419> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000519" .
+<http://utk-metadata-object/tenncities:419> <https://w3id.org/idsa/core/keyword> "Asheville Post Card Co." .
+<http://utk-metadata-object/tenncities:419> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .

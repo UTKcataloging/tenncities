@@ -1,0 +1,25 @@
+<http://utk-metadata-object/tenncities:411> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000511" .
+<http://utk-metadata-object/tenncities:411> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101228> .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/title> "Interior of the Appalachian Exposition's Main Building" .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/created> "Dec 14, 1911" .
+<http://utk-metadata-object/tenncities:411> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:411> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:411> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:411" .
+<http://utk-metadata-object/tenncities:411> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:411> <http://id.loc.gov/vocabulary/identifiers/local> "0312" .
+<http://utk-metadata-object/tenncities:411> <https://ontology.lib.utk.edu/roles#pup> "500 W Church Ave, Knoxville, TN 37902" .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:411> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85046347> .
+<http://utk-metadata-object/tenncities:411> <https://ontology.lib.utk.edu/roles#pbl> "East Tennessee Historical Society" .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/issued> "1991" .
+<http://utk-metadata-object/tenncities:411> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:411> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:411> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4167" .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/abstract> "View of the interior of the Main Building at the Appalachian Exposition. The 1910 Appalachian Exposition was held from September 12 to October 12 in Knoxville's Chilhowee Park. The first of its kind in Appalachia, the fair was intended to demonstrate Southern progress in industry and commerce and to advocate the preservation of the area's natural resources." .
+<http://utk-metadata-object/tenncities:411> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:411> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:411> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:411> <https://dbpedia.org/ontology/completionDate> "Dec 14, 1911" .

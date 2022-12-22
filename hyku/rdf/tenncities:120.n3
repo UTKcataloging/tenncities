@@ -1,0 +1,20 @@
+<http://utk-metadata-object/tenncities:120> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:120> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:120> <https://dbpedia.org/ontology/completionDate> "1900" .
+<http://utk-metadata-object/tenncities:120> <https://w3id.org/idsa/core/keyword> "White, James, 1747-1821" .
+<http://utk-metadata-object/tenncities:120> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85040261> .
+<http://utk-metadata-object/tenncities:120> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:120> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:120> <http://purl.org/dc/terms/title> "Jane Kennedy Home" .
+<http://utk-metadata-object/tenncities:120> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:120> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:120> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:120" .
+<http://utk-metadata-object/tenncities:120> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:120> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:120> <http://id.loc.gov/vocabulary/identifiers/local> "0021" .
+<http://utk-metadata-object/tenncities:120> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:120> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:120> <http://purl.org/dc/terms/abstract> "View of Jane Kennedy's home. General James White built part of the house itself (the first in Knoxville) in 1786. It was originally located at one corner of a rectangular lot with smaller houses in the other three corners, a common frontier design. After the White family established a farm away from this location, the structure was repurposed as the kitchen wing of the Kennedy residence on State Street. In 1906, Isaiah Ford purchased the building and moved it to Woodlawn Pike where he used it as a private residence. It changed hands again in 1970 when the City Association of Women's Clubs purchased the home and moved it back to central Knoxville as James White's Fort." .
+<http://utk-metadata-object/tenncities:120> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000220" .
+<http://utk-metadata-object/tenncities:120> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3876" .
+<http://utk-metadata-object/tenncities:120> <http://purl.org/dc/terms/created> "1900" .

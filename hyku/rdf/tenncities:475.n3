@@ -1,0 +1,24 @@
+<http://utk-metadata-object/tenncities:475> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:475> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:475> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/abstract> "Brothers James and John Moses organized the congregation that would become First Baptist Church in 1843. The church's first permanent building stood on Gay Street and was completed in 1850. The congregation split in 1869, and the dissidents formed Second Baptist Church. First Baptist Church moved to their second home (made possible in large part by merchant and philanthropist W. W. Woodruff) in 1888. A later building, located at the corner of Walnut and Main Streets, was completed in 1924 and was placed on the National Register of Historic Places in 1997." .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85026263> .
+<http://utk-metadata-object/tenncities:475> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:475> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:475" .
+<http://utk-metadata-object/tenncities:475> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:475> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:475> <https://dbpedia.org/ontology/completionDate> "1924/1930" .
+<http://utk-metadata-object/tenncities:475> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000575" .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/title> "First Baptist Church" .
+<http://utk-metadata-object/tenncities:475> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4231" .
+<http://utk-metadata-object/tenncities:475> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:475> <https://w3id.org/idsa/core/keyword> "Knoxville Engraving Co." .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:475> <http://id.loc.gov/vocabulary/identifiers/local> "0376" .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/created> "1924-1930" .
+<http://utk-metadata-object/tenncities:475> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:475> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85025867> .
+<http://utk-metadata-object/tenncities:475> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .

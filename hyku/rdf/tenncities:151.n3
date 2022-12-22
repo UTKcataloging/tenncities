@@ -1,0 +1,26 @@
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/created> "1925" .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:151> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:151> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:151> <https://dbpedia.org/ontology/completionDate> "1925" .
+<http://utk-metadata-object/tenncities:151> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:151> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:151> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000251" .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/issued> "1976" .
+<http://utk-metadata-object/tenncities:151> <http://id.loc.gov/vocabulary/relators/pht> <http://id.loc.gov/authorities/names/n78030817> .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/abstract> "View of M. B. Arnstein & Co. Department Store on the corner of Market Street and Union Avenue in downtown Knoxville. Opened by Max B. Arnstein (1858-1961) in 1905, the store ultimately closed in 1928." .
+<http://utk-metadata-object/tenncities:151> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:151> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:151> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3907" .
+<http://utk-metadata-object/tenncities:151> <http://id.loc.gov/vocabulary/identifiers/local> "0052" .
+<http://utk-metadata-object/tenncities:151> <https://id.loc.gov/vocabulary/relators/pup> <http://id.loc.gov/authorities/names/n79109786> .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/title> "M. B. Arnstein & Co. Department Store" .
+<http://utk-metadata-object/tenncities:151> <https://ontology.lib.utk.edu/roles#pbl> "Knoxville History Committee, East Tennessee Historical Society" .
+<http://utk-metadata-object/tenncities:151> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85037015> .
+<http://utk-metadata-object/tenncities:151> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:151> <https://w3id.org/idsa/core/keyword> "Arnstein, Max B., 1858-1961" .
+<http://utk-metadata-object/tenncities:151> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:151" .
+<http://utk-metadata-object/tenncities:151> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .

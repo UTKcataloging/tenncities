@@ -1,0 +1,24 @@
+<http://utk-metadata-object/tenncities:229> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:229" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:229> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:229> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/created> "1968-1971" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/names/n80003889> .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:229> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000329" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh2003010579> .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101268> .
+<http://utk-metadata-object/tenncities:229> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/title> "University of Tennessee Campus" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101264> .
+<http://utk-metadata-object/tenncities:229> <http://id.loc.gov/vocabulary/identifiers/local> "0130" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/abstract> "This aerial view of the University of Tennessee's central campus shows the \"Hill\" (including Ayres Hall, South College, Dabney-Buehler Hall, Dougherty Engineering Building, Nielsen Physics Building, Hesler Biology Building, and Austin Peay Building) as well as Neyland Stadium, Hodges Library, Tom Black Track, and McClung Tower and Plaza." .
+<http://utk-metadata-object/tenncities:229> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:229> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:229> <https://dbpedia.org/ontology/completionDate> "1968/1971" .
+<http://utk-metadata-object/tenncities:229> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:229> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:229> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:229> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:229> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_3985" .
+<http://utk-metadata-object/tenncities:229> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .

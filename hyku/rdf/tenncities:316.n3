@@ -1,0 +1,20 @@
+<http://utk-metadata-object/tenncities:316> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:316" .
+<http://utk-metadata-object/tenncities:316> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:316> <http://purl.org/dc/terms/abstract> "View of an unidentified passenger train in the Tennessee countryside." .
+<http://utk-metadata-object/tenncities:316> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000416" .
+<http://utk-metadata-object/tenncities:316> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:316> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh87002049> .
+<http://utk-metadata-object/tenncities:316> <http://purl.org/dc/terms/created> "1880-1930" .
+<http://utk-metadata-object/tenncities:316> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:316> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:316> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.75035, -86.25027" .
+<http://utk-metadata-object/tenncities:316> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:316> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4072" .
+<http://utk-metadata-object/tenncities:316> <http://purl.org/dc/terms/title> "Passenger Train in the Tennessee Countryside" .
+<http://utk-metadata-object/tenncities:316> <https://dbpedia.org/ontology/completionDate> "1880/1930" .
+<http://utk-metadata-object/tenncities:316> <http://id.loc.gov/vocabulary/identifiers/local> "0217" .
+<http://utk-metadata-object/tenncities:316> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:316> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
+<http://utk-metadata-object/tenncities:316> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Tennessee" .
+<http://utk-metadata-object/tenncities:316> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:316> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .

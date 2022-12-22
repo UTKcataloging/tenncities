@@ -1,0 +1,26 @@
+<http://utk-metadata-object/tenncities:395> <http://dbpedia.org/ontology/collection> "Photographs of Tennessee Cities Collection, MS.0951" .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh00007640> .
+<http://utk-metadata-object/tenncities:395> <http://id.loc.gov/vocabulary/relators/rps> "University of Tennessee, Knoxville. Special Collections" .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/format> <http://vocab.getty.edu/aat/300046300> .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/type> <http://id.loc.gov/vocabulary/resourceTypes/img> .
+<http://utk-metadata-object/tenncities:395> <http://id.loc.gov/vocabulary/identifiers/local> "0012_000067_000495" .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/title> "G. W. Carden's Confectionery" .
+<http://utk-metadata-object/tenncities:395> <https://ontology.lib.utk.edu/roles#pbl> "East Tennessee Historical Society" .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85063989> .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/issued> "1991" .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/subject> <http://id.loc.gov/authorities/subjects/sh85101228> .
+<http://utk-metadata-object/tenncities:395> <https://ontology.lib.utk.edu/roles#pup> "500 W Church Ave, Knoxville, TN 37902" .
+<http://utk-metadata-object/tenncities:395> <https://w3id.org/idsa/core/keyword> "Art Manufacturing Co." .
+<http://utk-metadata-object/tenncities:395> <http://id.loc.gov/vocabulary/identifiers/local> "0296" .
+<http://utk-metadata-object/tenncities:395> <http://id.loc.gov/vocabulary/identifiers/local> "tenncities:395" .
+<http://utk-metadata-object/tenncities:395> <http://www.europeana.eu/schemas/edm/rights> <http://rightsstatements.org/vocab/CNE/1.0/> .
+<http://utk-metadata-object/tenncities:395> <http://id.loc.gov/vocabulary/identifiers/local> "record_spc_4151" .
+<http://utk-metadata-object/tenncities:395> <https://www.w3.org/2003/01/geo/wgs84_pos#lat_long> "35.96064, -83.92074" .
+<http://utk-metadata-object/tenncities:395> <http://id.loc.gov/ontologies/bibframe/geographicCoverage> "Knoxville (Tenn.)" .
+<http://utk-metadata-object/tenncities:395> <https://ontology.lib.utk.edu/roles#cre> "Unknown" .
+<http://utk-metadata-object/tenncities:395> <https://ontology.lib.utk.edu/works#hasWorkType> <https://ontology.lib.utk.edu/works#ImageWork> .
+<http://utk-metadata-object/tenncities:395> <http://dbpedia.org/ontology/isPartOf> "\nhttps://n2t.net/ark:/87290/v8kd1w2w" .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/created> "1907-1910" .
+<http://utk-metadata-object/tenncities:395> <https://dbpedia.org/ontology/completionDate> "1907/1910" .
+<http://utk-metadata-object/tenncities:395> <http://purl.org/dc/terms/abstract> "View of the interior of G. W. Carden's Confectionery store located at 315 Gay Street." .
+<http://utk-metadata-object/tenncities:395> <http://www.europeana.eu/schemas/edm/provider> "University of Tennessee, Knoxville. Libraries" .
