@@ -33,11 +33,8 @@
       <topic>Airports</topic>
    </subject>
    <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n81025935">
-      <geographic>Blount County (Tenn.)</geographic>
-      <cartographics>
-         <coordinates>35.68724, -83.92553</coordinates>
-      </cartographics>
+      valueURI="http://id.loc.gov/authorities/names/n81102870">
+      <geographic>Knox County (Tenn.)</geographic>
    </subject>
    <typeOfResource>still image</typeOfResource>
    <relatedItem displayLabel="Project" type="host">
